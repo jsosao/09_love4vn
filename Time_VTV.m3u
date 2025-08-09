@@ -1,0 +1,942 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ (2.6s)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion Show ¹⁰⁸⁰ (3.3s)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="📦| Phim",Warner TV Asia (3.5s)
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hits" tvg-logo="https://i.ibb.co/M9LfBRM/Gottalent.png" group-title="📽️| Minh Đức Giải Trí",America's Got Talent¹⁰⁸⁰ (5.8s)
+https://jmp2.uk/sam-GBBC2300002GG.m3u8
+
+#EXTINF:-1 tvg-id="hungyen" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png" group-title="KÊNH ĐẶC SẮC",HYTV HD - TH HƯNG YÊN (7.1s)
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
+
+#EXTINF:-1 tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png" group-title="KÊNH GIẢI TRÍ",WOMAN HD (8.6s)
+https://HaNoiIPTV.short.gy/HaNoiIPTV-WOMAN_HD
+
+#EXTINF:-1 tvg-id="vtvcab21hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",ON Kids HD (19.5s)
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD_du_phong
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="📦| Phim",Cinemax (24.1s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="📦| Phim",HBO (27.7s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="📦| Phim",AXN (27.8s)
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertv" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="📦| Phim",Warner TV (28.6s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="📦| Phim",CinemaWorld (32.3s)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Quốc tế",Dreamworks (33.1s)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV 1
+#/storage/emulated/0/bacninh.mp4
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV2
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV3
+http://p1.cvtv.xyz/vtv3?token=live
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV5
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" group-title="Kenh VTV",VTV_Can_Tho
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/fTkch3Q2/vtv5TNB.png" group-title="Kenh VTV",VTV5 TÂY NAM BỘ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png" group-title="Kenh VTV",VTV5 TÂY NGUYÊN
+https://tbientv.xyz/channel/vtvgo/?id=163
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV2
+http://pcriptv.ddns.net:9981/stream/channelid/809295875?ticket=30FEB8DFA095C20F2203CFA02F5F127ED1E1EE6C&profile=pass#EXTINF:-1 tvg-id="History" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| Phim",Box Movie 1
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/boxmovie/01.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| Phim",Hollywood Classics
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/hollywood/01.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg" group-title="📦| Phim",In The Box
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg" group-title="📦| Phim",Box Hits
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1 HD
+udp://@225.1.2.249:30120
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2 HD
+udp://@225.1.2.13:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3 HD
+udp://@225.1.2.247:30120
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4 HD
+udp://@225.1.2.20:30120
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5 HD
+udp://@225.1.1.131:30120
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho HD
+udp://@225.1.2.245:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7 HD
+udp://@225.1.2.96:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8 HD
+udp://@225.1.2.166:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9 HD
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ HD
+udp://@225.1.2.236:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên HD
+udp://@225.1.1.108:30120
+
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" group-title="📽️| Minh Đức Giải Trí",▶️| AXN ¹⁰⁸⁰
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Quốc Tế (HD)",Dreamworks
+udp://@225.1.1.136:30120
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png" group-title="Quốc Tế (HD)",Fashion TV
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO
+udp://@225.1.1.112:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV1 ¹⁰⁸⁰
+udp://@225.1.3.1:30120
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV2 ¹⁰⁸⁰
+udp://@225.1.3.5:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV3 ¹⁰⁸⁰
+udp://@225.1.3.2:30120
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV4 ¹⁰⁸⁰
+udp://@225.1.3.6:30120
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV5 ¹⁰⁸⁰
+udp://@225.1.3.4:30120
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" group-title="Kenh VTV",❤️| VTV6 ¹⁰⁸⁰
+udp://@225.1.3.3:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV7 ¹⁰⁸⁰
+udp://@225.1.3.15:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV8 ¹⁰⁸⁰
+udp://@225.1.3.11:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" group-title="Kenh VTV",❤️| VTV9 ¹⁰⁸⁰
+udp://@225.1.3.9:30120
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Quốc Tế (HD)",Cinemax
+udp://@225.1.3.14:30120
+
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Quốc Tế (HD)",Cinema World
+udp://@225.1.3.81:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
+udp://@225.1.4.184:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
+udp://@225.1.4.179:30120
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD_du_phong
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV2 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV3 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV4 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV5 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV_Can_Tho HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="Kenh VTV" group-title="KÊNH DẠY HỌC",VTV7 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV8 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV9 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
+
+#EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20s%C3%A1u%20-%20B%E1%BA%A3n%202.png" group-title="KÊNH ĐẶC SẮC",TH HÀ NỘI 1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
+
+#EXTINF:-1 tvg-name="KÊNH 13 - TH HÀ NỘI 2 4K 50fps" tvg-id="hanoi2" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%204K%20%E2%80%A2%20B%E1%BA%A3n%202.png" group-title="KÊNH ĐẶC SẮC",TH HÀ NỘI 2 4K
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_4K
+
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png" group-title="KÊNH ĐẶC SẮC",ANTV - TH AN NINH HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ANTV-Truyen_hinh_An_Ninh_HD
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="KÊNH CÓ NHIỀU LƯỢT XEM CAO NHẤT",BOX MOVIE 1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png" group-title="KÊNH CÓ NHIỀU LƯỢT XEM CAO NHẤT",HOLLYWOOD CLASSICS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png" group-title="KÊNH ĐẶC SẮC",BOX HITS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" group-title="KÊNH CÓ NHIỀU LƯỢT XEM CAO NHẤT",IN THE BOX CHANNEL
+https://HaNoiIPTV.short.gy/HaNoiIPTV-In_The_Box_Channel
+
+#EXTINF:-1 tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png" group-title="KÊNH GIẢI TRÍ",DR. FIT HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Dr_Fit_HD
+
+#EXTINF:-1 tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png" group-title="KÊNH GIẢI TRÍ",MUSIC BOX HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Music_BOX_HD
+
+#EXTINF:-1 tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=https://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png" group-title="KÊNH ĐẶC SẮC",PLANET EARTH HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Planet_Earth_HD
+
+#EXTINF:-1 tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=https://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Happy%20Kids%20HD.png" group-title="KÊNH ĐẶC SẮC",HAPPY KIDS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Happy_Kids_HD
+
+#EXTINF:-1 tvg-id="hue" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png" group-title="KÊNH ĐẶC SẮC",HueTV HD - TH TP. HUẾ
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HueTV-Truyen_hinh_Thanh_pho_Hue_HD
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV5 TÂY NGUYÊN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nguyen
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="Kenh VTV" group-title="KÊNH ĐẶC SẮC",VTV5 TÂY NAM BỘ HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| In The Box",Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| In The Box",Hollywood Classics
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg" group-title="📦| In The Box",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg" group-title="📦| In The Box",Box Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="manhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png" group-title="📦| In The Box",Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" group-title="📦| In The Box",Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png" group-title="📦| In The Box",Dr.Fit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" group-title="📦| In The Box",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png" group-title="📦| In The Box",Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png" group-title="📦| In The Box",Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="📽️| Minh Đức Giải Trí",▶️| HBO ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="hbohd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.imgur.com/w5u4IrO.png",▶️| HBO ¹⁰⁸⁰
+
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.ibb.co/hJbxfGBn/kix.webp" group-title="📽️| Minh Đức Giải Trí",▶️| KIX ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="quochoi" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/hJbxfGBn/kix.webp",▶️| KIX ¹⁰⁸⁰
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png" group-title="📽️| Minh Đức Giải Trí",▶️| WBTV ¹⁰⁸⁰
+udp://@225.1.1.139:30120
+
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png" group-title="📽️| Minh Đức Giải Trí",▶️| KBS WORLD ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="kbsworld" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",▶️| KBS WORLD ¹⁰⁸⁰
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="📽️| Minh Đức Giải Trí",Action Hollywood Movies
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="📽️| Minh Đức Giải Trí", Action Hollywood Movies
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp" group-title="📽️| Minh Đức Giải Trí",▶️| Hollywood Classics
+https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" group-title="📽️| Minh Đức Giải Trí",▶️| In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",▶️| In The Box
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp" group-title="📽️| Minh Đức Giải Trí",▶️| BOX Movie¹
+https://xem.TruyenHinh.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp" group-title="📽️| Minh Đức Giải Trí",▶️| Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",▶️| Box Hits
+
+#EXTINF:-1 tvg-id="man" tvg-logo="https://i.ibb.co/0CPzK4F/Man-150x901j3.png" group-title="📽️| Minh Đức Giải Trí",▶️| Man
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png" group-title="📽️| Minh Đức Giải Trí",▶️| Woman
+#EXTINF:-1 tvg-id="woman" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",▶️| Woman
+
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/0K7HcKn/static-assets-upload13174741322686086309.png" group-title="📽️| Minh Đức Giải Trí",▶️| Dr.Fit
+https://xem.TruyenHinh.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="fashionhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png",▶️| Fashion TV ¹⁰⁸⁰
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
+
+#EXTINF:-1 tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="📽️| Minh Đức Giải Trí",TVB VIỆT NAM (1.4s)
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="🌏| Quốc tế",HBO (3.6s)
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV LỮ BỐ m3u (3.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LUBO/index.m3u8?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV KIỀU PHONG m3u (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KIEUPHONG/index.m3u8?expire=1892276520&sign=380ca9da2dd338e1e8536b9262077b28
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV CHU ĐỒNG m3u (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/CHUDONG/index.m3u8?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV TÔN LẬP m3u (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TONLAP/index.m3u8?expire=1891840680&sign=03dc93cf5d2d880ee948a696e129a587
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10206/1gtqm7c5w61m.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FK Banga Gargzdai vs Siauliai (LS) BLV VI TIỂU BẢO m3u (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/VITIEUBAO/index.m3u8?expire=1892967540&sign=3e07769216ee7d607fcc3b2807131a66
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KAKA m3u (3.9s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV HOA VINH m3u (3.9s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LOELOE6380K/index.m3u8?expire=1892013720&sign=8f511e15e38eb664f3f436cc2521eb10
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV QUAN VŨ m3u (3.9s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV ODIN m3u (4.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/ODIN/index.m3u8?expire=1892979900&sign=edf2447a8675bf94b650662debde4ce7
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV NHỊ KA m3u (4.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/NHIKA1/index.m3u8?expire=1893162300&sign=8d891171b693962b26ed1e3528cdaf2a
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG CHÍ m3u (4.1s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DUONGCHI/index.m3u8?expire=1873178820&sign=388075eab5f96a7da123562534b64d4e
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV TRIỆU TỬ LONG m3u (4.2s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV KHỔNG MINH m3u (4.2s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG KHANG m3u (4.2s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DUONGKHANG/index.m3u8?expire=1892360700&sign=9e67938737278491e8713e499d93ac6d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="🌏| Quốc tế",WBTV (4.3s)
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV DẾ LỬA m3u (4.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DELUA/index.m3u8?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV LƯ TUẤN NGHĨA m3u (4.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG QUÁ m3u (4.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KEVILL m3u (4.4s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV VƯƠNG LUÂN m3u (4.4s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV MÃ LÂN m3u (4.6s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/MALAN/index.m3u8?expire=1891840680&sign=cfff3b327816a0b851ddcad7cffd21bf
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV TRƯƠNG VÔ KỴ m3u (4.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/VOKY/index.m3u8?expire=1873178820&sign=c47c50264a61b6bc86366646a533d178
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV HẠNG VŨ m3u (5.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/HANGVU1/index.m3u8?expire=1890804960&sign=9ead10f20981ec0927284380f496dc60
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1156/1gytycjcz11f.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (LS) BLV SÁCH SIÊU m3u (5.9s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/SACHSIEU1/index.m3u8?expire=1892979900&sign=3f13b9d141ad4fb3786da91f9ab09590
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG HÙNG m3u (6.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/BLVDUONGHUNG1/index.m3u8?expire=1892728380&sign=f838ff4fb6091a2925ec658011875e7a
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5ccc7e66759c042674aaef5085b26abc.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Elva vs JK Welco Elekter 1 (Bc) (8.1s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/39c89ad68a03c09595118fd708daaadd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.rapid-api.icu/football/team/7de930699a4f136cb9bdf335003be624.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Kaisar Kyzylorda W vs FK Atyrau (W) 1 (Bc) (8.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/75a5c1507e3ff2736cc25fe6c1a5f8d5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati 1 (Bc) (8.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c89a07b75296f5c36104b432b0a04936/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku 1 (Bc) (8.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/1fbea82a3753dd361755a5fadf2cb7e3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/bf130614e1f60c087522a1f52cb8b983.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Nomme JK Kalju II vs Viimsi MRJK 1 (Bc) (8.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a4f6e4e480e2e4dfdc433ad2fdd110f9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e7581fc6c38fb3a0ef7fda8456c48353.png" group-title="[⚽🥎Livestream🏆🏅]",23h15 Mighty Blackpool vs Abacha City 1 (Bc) (8.3s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/de1d2bf9c3d1f019894d51e3ef8ad135/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki 1 (Bc) (8.5s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/3ec348eb52f6b8a9928ed45690a73c04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kyiv 1 (Bc) (8.5s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/7f63e31b91101ada7a117a51dfbc8106/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora 1 (Bc) (8.5s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ebff9efd9ef9c87ac2f4c84759126eca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/32a7374258cbbb6e851992f820de53d6.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 FK Minsk (w) vs Dnepr Mogilev (w) 1 (Bc) (8.6s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/8e274da41be7b8126dd9a0e24bdeb33d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/623dbb7106c995f1c8f406a1270cc17f.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 FC Suduroy vs HB Torshavn 1 (Bc) (8.6s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a4e396b726df5fa1e0b3c7e0e9eee146/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Banga Gargzdai vs Siauliai 1 (Bc) (8.6s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/dfe98bda87d93fe3f8677edbb9000683/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club 1 (Bc) (8.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/aee3dd989bd7a8192ee2611d8966c82e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="🌏| Quốc tế",AXN
+http://125hvt.ddns.net:21585/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Quốc Tế (HD)",Cinemax (HD 8Mbps)
+udp://@225.1.2.86:30120
+
+#EXTINF:-1 group-title="Kenh VTV",VTV5 HD - Tây Nam Bộ
+udp://@225.1.3.42:30120
+
+#EXTINF:-1 group-title="Kenh VTV",VTV5 HD - Tây Nguyên
+udp://@225.1.3.30:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="FPT Play",AXN (HD 4Mbps)
+udp://@225.1.4.9:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="FPT Play",Dreamworks (HD 4Mbps)
+udp://@225.1.4.39:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="FPT Play",HBO (HD 4Mbps)
+udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="FPT Play",HBO (HD 4Mbps)
+udp://@225.1.4.183:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png" group-title="KÊNH GIẢI TRÍ",MAN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-MAN
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890c0d117f06_6308/index.m3u8?expire=1754921809&sign=98935c9a4627781977ac5793786e5053
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890c0d117f06_6308.flv?expire=1754921809&sign=98935c9a4627781977ac5793786e5053
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kyiv [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890c60317f06_4439/index.m3u8?expire=1754923139&sign=619c0ce20233d08f95c30f8085f48941
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kyiv [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890c60317f06_4439.flv?expire=1754923139&sign=619c0ce20233d08f95c30f8085f48941
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890ce2517f06_79/index.m3u8?expire=1754925221&sign=58763162cb75327ec58994a63c8bb390
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890ce2517f06_79.flv?expire=1754925221&sign=58763162cb75327ec58994a63c8bb390
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890d357827e5_29975/index.m3u8?expire=1754926551&sign=deedefef33e522e684c4cfe96b2e540b
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890d357827e5_29975.flv?expire=1754926551&sign=deedefef33e522e684c4cfe96b2e540b
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890d26017f06_5601/index.m3u8?expire=1754926304&sign=9fe732c2bbd9c6ab1f0159f065c5b143
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890d26017f06_5601.flv?expire=1754926304&sign=9fe732c2bbd9c6ab1f0159f065c5b143
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890d0c1827e5_28575/index.m3u8?expire=1754925889&sign=a6e9c34c2db12a84eed5fd716cdb1f7c
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Club [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890d0c1827e5_28575.flv?expire=1754925889&sign=a6e9c34c2db12a84eed5fd716cdb1f7c
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6890cbac827e5_161/index.m3u8?expire=1754924588&sign=e58fb43db1b45cf43d74b87c553acba2
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6890cbac827e5_161.flv?expire=1754924588&sign=e58fb43db1b45cf43d74b87c553acba2
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/32a7374258cbbb6e851992f820de53d6.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 FK Minsk (w) vs Dnepr Mogilev (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https:/ckcdn.livestreameuro.live/live/caysd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cayhd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6356dcedfefdbc98de34cce75214de28.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7b66c521f45e1538cf40797b85950437.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5ccc7e66759c042674aaef5085b26abc.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Elva vs JK Welco Elekter (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/bf130614e1f60c087522a1f52cb8b983.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Nomme JK Kalju II vs Viimsi MRJK (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Banga Gargzdai vs Siauliai (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) Lử SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) Lử HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34c01a893864ab4584209db05b29e317.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/efe167b92d0d9687486c2e446cf12967.png" group-title="[⚽🥎Livestream🏆🏅]",23h30 Dziugas Telsiai vs Hegelmann Litauen (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV DẾ LỬA flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV DẾ LỬA flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV TRƯƠNG VÔ KỴ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV TRƯƠNG VÔ KỴ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KAKA flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KAKA flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KEVILL flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165724438863.png?win007=sell",22h00 Ilves Tampere vs Gnistan Helsinki (LS) BLV KEVILL flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG HÙNG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG HÙNG flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV LƯ TUẤN NGHĨA flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell",23h00 HJK Helsinki vs Inter Turku (LS) BLV LƯ TUẤN NGHĨA flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG QUÁ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell",23h00 HJK Helsinki vs Inter Turku (LS) BLV DƯƠNG QUÁ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 HJK Helsinki vs Inter Turku (LS) BLV VƯƠNG LUÂN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/383/1gtzct7tvc22.png?win007=sell",23h00 HJK Helsinki vs Inter Turku (LS) BLV VƯƠNG LUÂN flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG CHÍ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG CHÍ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV ODIN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV ODIN flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV LỮ BỐ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV LỮ BỐ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV NHỊ KA flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV NHỊ KA flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV HOA VINH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV HOA VINH flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV KIỀU PHONG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV KIỀU PHONG flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV CHU ĐỒNG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV CHU ĐỒNG flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV HẠNG VŨ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV HẠNG VŨ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV MÃ LÂN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV MÃ LÂN flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV TRIỆU TỬ LONG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV TRIỆU TỬ LONG flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV KHỔNG MINH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV KHỔNG MINH flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG KHANG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577447430.png?win007=sell",23h00 Liverpool vs Athletic Bilbao (LS) BLV DƯƠNG KHANG flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV TÔN LẬP flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV TÔN LẬP flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV QUAN VŨ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/14931/1grwfg41cv1q.png?win007=sell",23h00 FC Unirea 2004 Slobozia vs FC Otelul Galati (LS) BLV QUAN VŨ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1156/1gytycjcz11f.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 Cherno More Varna vs Beroe Stara Zagora (LS) BLV SÁCH SIÊU flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1156/1gytycjcz11f.png?win007=sell",23h00 Cherno More Varna vs Beroe Stara Zagora (LS) BLV SÁCH SIÊU flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10206/1gtqm7c5w61m.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",23h00 FK Banga Gargzdai vs Siauliai (LS) BLV VI TIỂU BẢO flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/10206/1gtqm7c5w61m.png?win007=sell",23h00 FK Banga Gargzdai vs Siauliai (LS) BLV VI TIỂU BẢO flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Ilves Tampere vs Gnistan Helsinki (RK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+htt1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/46f84f044e7d8fdaad5d75398471ab0d.png" group-title="[⚽🥎Livestream🏆🏅]",22h00 Metalist 1925 Kharkiv vs Obolon Kiev (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/caysd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momsd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a11e714b8ccb1e287520857bd6cf01c.png" group-title="[⚽🥎Livestream🏆🏅]",23h00 Liverpool vs Athletic Bilbao (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/momhd1.flv
+
