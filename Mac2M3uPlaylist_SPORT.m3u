@@ -1477,13 +1477,13 @@ http://groundhogday.in:80/live/Jok123/Jok123/5648321.ts
 http://groundhogday.in:80/live/Jok123/Jok123/5648320.ts
 #EXTINF:-1 tvg-id="modussuperseriesdarts" tvg-name="MODUS Super Series Darts" tvg-logo="https://yt3.googleusercontent.com/m6Gov53Ugv-_dYrmVjAMyQHv-WrfwUtbz1NHn5MG2NiWIow_3B6IybNnw3rLBQUF866pDl2bmA=s900-c-k-c0x00ffffff-no-rj" group-title="World Sport Events",MODUS Super Series Darts
 http://groundhogday.in:80/live/Jok123/Jok123/7344510.ts
-#EXTINF:-1 tvg-id="ws01:playerschampionship25board113:00" tvg-name="WS01: Players Championship 25 - Board 1 13:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01: Players Championship 25 - Board 1 13:00
+#EXTINF:-1 tvg-id="ws01:" tvg-name="WS01:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01:
 http://groundhogday.in:80/live/Jok123/Jok123/1008004.ts
-#EXTINF:-1 tvg-id="ws02:playerschampionship25board213:00" tvg-name="WS02: Players Championship 25 - Board 2 13:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS02: Players Championship 25 - Board 2 13:00
+#EXTINF:-1 tvg-id="ws02:" tvg-name="WS02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS02:
 http://groundhogday.in:80/live/Jok123/Jok123/1008003.ts
-#EXTINF:-1 tvg-id="ws03:playerschampionship25board313:00" tvg-name="WS03: Players Championship 25 - Board 3 13:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS03: Players Championship 25 - Board 3 13:00
+#EXTINF:-1 tvg-id="ws03:" tvg-name="WS03:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS03:
 http://groundhogday.in:80/live/Jok123/Jok123/979987.ts
-#EXTINF:-1 tvg-id="ws04:playerschampionship25board413:00" tvg-name="WS04: Players Championship 25 - Board 4 13:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS04: Players Championship 25 - Board 4 13:00
+#EXTINF:-1 tvg-id="ws04:" tvg-name="WS04:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS04:
 http://groundhogday.in:80/live/Jok123/Jok123/1271.ts
 #EXTINF:-1 tvg-id="ws05:" tvg-name="WS05:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS05:
 http://groundhogday.in:80/live/Jok123/Jok123/1270.ts
@@ -1541,13 +1541,13 @@ http://groundhogday.in:80/live/Jok123/Jok123/5620900.ts
 http://groundhogday.in:80/live/Jok123/Jok123/5620899.ts
 #EXTINF:-1 tvg-id="ws32:" tvg-name="WS 32:" tvg-logo="" group-title="World Sport Events",WS 32:
 http://groundhogday.in:80/live/Jok123/Jok123/5620898.ts
-#EXTINF:-1 tvg-id="foot01:17:45kairatvsceltic" tvg-name="FOOT 01: 17:45 Kairat vs Celtic" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 01: 17:45 Kairat vs Celtic
+#EXTINF:-1 tvg-id="foot01:20:00benficavsfenerbahçe" tvg-name="FOOT 01: 20:00 Benfica vs Fenerbahçe" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 01: 20:00 Benfica vs Fenerbahçe
 http://groundhogday.in:80/live/Jok123/Jok123/3475834.ts
-#EXTINF:-1 tvg-id="foot02:17:45kairatvscelticalsoceltictv" tvg-name="FOOT 02: 17:45 Kairat vs Celtic - Also Celtic TV" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 02: 17:45 Kairat vs Celtic - Also Celtic TV
+#EXTINF:-1 tvg-id="foot02:20:00clubbruggevsrangers" tvg-name="FOOT 02: 20:00 Club Brugge vs Rangers" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 02: 20:00 Club Brugge vs Rangers
 http://groundhogday.in:80/live/Jok123/Jok123/3475835.ts
-#EXTINF:-1 tvg-id="foot03:17:45kairatvsceltic" tvg-name="FOOT 03: 17:45 Kairat vs Celtic" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 03: 17:45 Kairat vs Celtic
+#EXTINF:-1 tvg-id="foot03:20:00clubbruggevsrangers" tvg-name="FOOT 03: 20:00 Club Brugge vs Rangers" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 03: 20:00 Club Brugge vs Rangers
 http://groundhogday.in:80/live/Jok123/Jok123/3475836.ts
-#EXTINF:-1 tvg-id="foot04:17:45kairatvsceltic" tvg-name="FOOT 04: 17:45 Kairat vs Celtic" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 04: 17:45 Kairat vs Celtic
+#EXTINF:-1 tvg-id="foot04:20:00clubbruggevsrangers" tvg-name="FOOT 04: 20:00 Club Brugge vs Rangers" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 04: 20:00 Club Brugge vs Rangers
 http://groundhogday.in:80/live/Jok123/Jok123/3475837.ts
 #EXTINF:-1 tvg-id="foot05:" tvg-name="FOOT 05:" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 05:
 http://groundhogday.in:80/live/Jok123/Jok123/3475838.ts
@@ -1839,49 +1839,49 @@ http://groundhogday.in:80/live/Jok123/Jok123/5316044.ts
 http://groundhogday.in:80/live/Jok123/Jok123/5316043.ts
 #EXTINF:-1 tvg-id="flosports.tv59" tvg-name="flosports.tv 59" tvg-logo="" group-title="Flo Sports",flosports.tv 59
 http://groundhogday.in:80/live/Jok123/Jok123/5316042.ts
-#EXTINF:-1 tvg-id="skysports+01:19:00readingvsafcwimbledon" tvg-name="Sky Sports+ 01: 19:00 Reading vs AFC Wimbledon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 01: 19:00 Reading vs AFC Wimbledon
+#EXTINF:-1 tvg-id="skysports+01:19:45oxfordunitedvsbrighton&hovealbion" tvg-name="Sky Sports+ 01: 19:45 Oxford United vs Brighton & Hove Albion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 01: 19:45 Oxford United vs Brighton & Hove Albion
 http://groundhogday.in:80/live/Jok123/Jok123/5661514.ts
-#EXTINF:-1 tvg-id="skysports+02:19:30cambridgeunitedvscharltonathletic" tvg-name="Sky Sports+ 02: 19:30 Cambridge United vs Charlton Athletic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 02: 19:30 Cambridge United vs Charlton Athletic
+#EXTINF:-1 tvg-id="skysports+02:19:45fulhamvsbristolcity" tvg-name="Sky Sports+ 02: 19:45 Fulham vs Bristol City" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 02: 19:45 Fulham vs Bristol City
 http://groundhogday.in:80/live/Jok123/Jok123/5661513.ts
-#EXTINF:-1 tvg-id="skysports+03:19:30wolverhamptonwanderersvswesthamunited" tvg-name="Sky Sports+ 03: 19:30 Wolverhampton Wanderers vs West Ham United" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 03: 19:30 Wolverhampton Wanderers vs West Ham United
+#EXTINF:-1 tvg-id="skysports+03:19:45evertonvsmansfieldtown" tvg-name="Sky Sports+ 03: 19:45 Everton vs Mansfield Town" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 03: 19:45 Everton vs Mansfield Town
 http://groundhogday.in:80/live/Jok123/Jok123/5661512.ts
-#EXTINF:-1 tvg-id="skysports+04:19:45birminghamcityvsportvale" tvg-name="Sky Sports+ 04: 19:45 Birmingham City vs Port Vale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 04: 19:45 Birmingham City vs Port Vale
+#EXTINF:-1 tvg-id="skysports+04:20:00grimsbytownvsmanchesterunited" tvg-name="Sky Sports+ 04: 20:00 Grimsby Town vs Manchester United" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 04: 20:00 Grimsby Town vs Manchester United
 http://groundhogday.in:80/live/Jok123/Jok123/5661511.ts
-#EXTINF:-1 tvg-id="skysports+05:19:45burtonalbionvslincolncity" tvg-name="Sky Sports+ 05: 19:45 Burton Albion vs Lincoln City" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 05: 19:45 Burton Albion vs Lincoln City
+#EXTINF:-1 tvg-id="skysports+05:" tvg-name="Sky Sports+ 05:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 05:
 http://groundhogday.in:80/live/Jok123/Jok123/5661510.ts
-#EXTINF:-1 tvg-id="skysports+06:19:45burnleyvsderbycounty" tvg-name="Sky Sports+ 06: 19:45 Burnley vs Derby County" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 06: 19:45 Burnley vs Derby County
+#EXTINF:-1 tvg-id="skysports+06:" tvg-name="Sky Sports+ 06:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 06:
 http://groundhogday.in:80/live/Jok123/Jok123/5661509.ts
-#EXTINF:-1 tvg-id="skysports+07:19:45stokecityvsbradfordcity" tvg-name="Sky Sports+ 07: 19:45 Stoke City vs Bradford City" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 07: 19:45 Stoke City vs Bradford City
+#EXTINF:-1 tvg-id="skysports+07:" tvg-name="Sky Sports+ 07:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 07:
 http://groundhogday.in:80/live/Jok123/Jok123/5661508.ts
-#EXTINF:-1 tvg-id="skysports+08:19:45sunderlandvshuddersfieldtown" tvg-name="Sky Sports+ 08: 19:45 Sunderland vs Huddersfield Town" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 08: 19:45 Sunderland vs Huddersfield Town
+#EXTINF:-1 tvg-id="skysports+08:" tvg-name="Sky Sports+ 08:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 08:
 http://groundhogday.in:80/live/Jok123/Jok123/5661507.ts
-#EXTINF:-1 tvg-id="skysports+09:19:45swanseacityvsplymouthargyle" tvg-name="Sky Sports+ 09: 19:45 Swansea City vs Plymouth Argyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 09: 19:45 Swansea City vs Plymouth Argyle
+#EXTINF:-1 tvg-id="skysports+09:" tvg-name="Sky Sports+ 09:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 09:
 http://groundhogday.in:80/live/Jok123/Jok123/5661506.ts
-#EXTINF:-1 tvg-id="skysports+10:19:45prestonnorthendvswrexham" tvg-name="Sky Sports+ 10: 19:45 Preston North End vs Wrexham" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 10: 19:45 Preston North End vs Wrexham
+#EXTINF:-1 tvg-id="skysports+10:" tvg-name="Sky Sports+ 10:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 10:
 http://groundhogday.in:80/live/Jok123/Jok123/5661505.ts
-#EXTINF:-1 tvg-id="skysports+11:19:45norwichcityvssouthampton" tvg-name="Sky Sports+ 11: 19:45 Norwich City vs Southampton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 11: 19:45 Norwich City vs Southampton
+#EXTINF:-1 tvg-id="skysports+11:" tvg-name="Sky Sports+ 11:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 11:
 http://groundhogday.in:80/live/Jok123/Jok123/5661504.ts
-#EXTINF:-1 tvg-id="skysports+12:19:45afcbournemouthvsbrentford" tvg-name="Sky Sports+ 12: 19:45 AFC Bournemouth vs Brentford" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 12: 19:45 AFC Bournemouth vs Brentford
+#EXTINF:-1 tvg-id="skysports+12:" tvg-name="Sky Sports+ 12:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 12:
 http://groundhogday.in:80/live/Jok123/Jok123/5661503.ts
-#EXTINF:-1 tvg-id="skysports+13:19:45barnsleyvsrotherhamunited" tvg-name="Sky Sports+ 13: 19:45 Barnsley vs Rotherham United" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 13: 19:45 Barnsley vs Rotherham United
+#EXTINF:-1 tvg-id="skysports+13:" tvg-name="Sky Sports+ 13:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 13:
 http://groundhogday.in:80/live/Jok123/Jok123/5661502.ts
-#EXTINF:-1 tvg-id="skysports+14:19:45wiganathleticvsstockportcounty" tvg-name="Sky Sports+ 14: 19:45 Wigan Athletic vs Stockport County" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 14: 19:45 Wigan Athletic vs Stockport County
+#EXTINF:-1 tvg-id="skysports+14:" tvg-name="Sky Sports+ 14:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 14:
 http://groundhogday.in:80/live/Jok123/Jok123/5661501.ts
-#EXTINF:-1 tvg-id="skysports+15:19:45millwallvscoventrycity" tvg-name="Sky Sports+ 15: 19:45 Millwall vs Coventry City" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 15: 19:45 Millwall vs Coventry City
+#EXTINF:-1 tvg-id="skysports+15:" tvg-name="Sky Sports+ 15:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 15:
 http://groundhogday.in:80/live/Jok123/Jok123/5661500.ts
-#EXTINF:-1 tvg-id="skysports+16:19:45cardiffcityvscheltenhamtown" tvg-name="Sky Sports+ 16: 19:45 Cardiff City vs Cheltenham Town" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 16: 19:45 Cardiff City vs Cheltenham Town
+#EXTINF:-1 tvg-id="skysports+16:" tvg-name="Sky Sports+ 16:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 16:
 http://groundhogday.in:80/live/Jok123/Jok123/5661499.ts
-#EXTINF:-1 tvg-id="skysports+17:19:45bromleyvswycombewanderers" tvg-name="Sky Sports+ 17: 19:45 Bromley vs Wycombe Wanderers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 17: 19:45 Bromley vs Wycombe Wanderers
+#EXTINF:-1 tvg-id="skysports+17:" tvg-name="Sky Sports+ 17:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 17:
 http://groundhogday.in:80/live/Jok123/Jok123/5661498.ts
-#EXTINF:-1 tvg-id="skysports+18:19:45accringtonstanleyvsdoncasterrovers" tvg-name="Sky Sports+ 18: 19:45 Accrington Stanley vs Doncaster Rovers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 18: 19:45 Accrington Stanley vs Doncaster Rovers
+#EXTINF:-1 tvg-id="skysports+18:" tvg-name="Sky Sports+ 18:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 18:
 http://groundhogday.in:80/live/Jok123/Jok123/5661497.ts
-#EXTINF:-1 tvg-id="skysports+19:20:00sheffieldwednesdayvsleedsunited" tvg-name="Sky Sports+ 19: 20:00 Sheffield Wednesday vs Leeds United" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 19: 20:00 Sheffield Wednesday vs Leeds United
+#EXTINF:-1 tvg-id="skysports+19:" tvg-name="Sky Sports+ 19:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 19:
 http://groundhogday.in:80/live/Jok123/Jok123/5661496.ts
-#EXTINF:-1 tvg-id="skysports+20:19:00oldhamathleticvsmanchestercityu21" tvg-name="Sky Sports+ 20: 19:00 Oldham Athletic vs Manchester City U21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 20: 19:00 Oldham Athletic vs Manchester City U21
+#EXTINF:-1 tvg-id="skysports+20:" tvg-name="Sky Sports+ 20:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 20:
 http://groundhogday.in:80/live/Jok123/Jok123/5661495.ts
-#EXTINF:-1 tvg-id="skysports+21:19:00bristolroversvstottenhamu21" tvg-name="Sky Sports+ 21: 19:00 Bristol Rovers vs Tottenham U21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 21: 19:00 Bristol Rovers vs Tottenham U21
+#EXTINF:-1 tvg-id="skysports+21:" tvg-name="Sky Sports+ 21:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 21:
 http://groundhogday.in:80/live/Jok123/Jok123/5661494.ts
-#EXTINF:-1 tvg-id="skysports+22:19:00shrewsburytownvschelseau21" tvg-name="Sky Sports+ 22: 19:00 Shrewsbury Town vs Chelsea U21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 22: 19:00 Shrewsbury Town vs Chelsea U21
+#EXTINF:-1 tvg-id="skysports+22:" tvg-name="Sky Sports+ 22:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 22:
 http://groundhogday.in:80/live/Jok123/Jok123/5661493.ts
 #EXTINF:-1 tvg-id="skysports+23:" tvg-name="Sky Sports+ 23:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 23:
 http://groundhogday.in:80/live/Jok123/Jok123/5661492.ts
