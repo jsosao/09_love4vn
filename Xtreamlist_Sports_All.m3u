@@ -2005,6 +2005,8 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/35802.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/20166.ts
 #EXTINF:-1 tvg-id="ukskysportsactionhd" tvg-name="UK-Sky Sports Action HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Action.png" group-title="UK | Sky Sports",UK-Sky Sports Action HD*
 http://tv.8dott.xyz:80/live/samuel/samuel123456/164496.ts
+#EXTINF:-1 tvg-id="ukskysportsclassicsfhd" tvg-name="UK-Sky Sports Classics FHD" tvg-logo="" group-title="UK | Sky Sports",UK-Sky Sports Classics FHD
+http://tv.8dott.xyz:80/live/samuel/samuel123456/949601.ts
 #EXTINF:-1 tvg-id="ukskysportsf1fhd" tvg-name="UK-Sky Sports F1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="UK | Sky Sports",UK-Sky Sports F1 FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/20167.ts
 #EXTINF:-1 tvg-id="ukskysportsf1fhd50fps" tvg-name="UK-Sky Sports F1 FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="UK | Sky Sports",UK-Sky Sports F1 FHD 50FPS
@@ -2051,6 +2053,8 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/94057.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/35805.ts
 #EXTINF:-1 tvg-id="ukskysportsracinghd" tvg-name="UK-Sky Sports Racing HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="UK | Sky Sports",UK-Sky Sports Racing HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/814689.ts
+#EXTINF:-1 tvg-id="ukskysportsstoriesfhd" tvg-name="UK-Sky Sports Stories FHD" tvg-logo="" group-title="UK | Sky Sports",UK-Sky Sports Stories FHD
+http://tv.8dott.xyz:80/live/samuel/samuel123456/949606.ts
 #EXTINF:-1 tvg-id="ukskysportstennisfhd" tvg-name="UK-Sky Sports Tennis FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="UK | Sky Sports",UK-Sky Sports Tennis FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/744772.ts
 #EXTINF:-1 tvg-id="ukskysportstennishd" tvg-name="UK-Sky Sports Tennis HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="UK | Sky Sports",UK-Sky Sports Tennis HD
