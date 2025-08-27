@@ -101,9 +101,9 @@ http://groundhogday.in:80/live/Jok123/Jok123/6032369.ts
 http://groundhogday.in:80/live/Jok123/Jok123/6032368.ts
 #EXTINF:-1 tvg-id="livefootball21stockportcountyvshullcity2100" tvg-name="Live Football  21 : Stockport County vs Hull City 21:00" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football  21 : Stockport County vs Hull City 21:00
 http://groundhogday.in:80/live/Jok123/Jok123/1010982.ts
-#EXTINF:-1 tvg-id="livefootball01rangersvsalloa2345vn" tvg-name="Live Football 01: Rangers vs Alloa 23:45 (VN)" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football 01: Rangers vs Alloa 23:45 (VN)
+#EXTINF:-1 tvg-id="livefootball01evertonvsmansfield0145vn" tvg-name="Live Football 01: Everton vs Mansfield 01:45 (VN)" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football 01: Everton vs Mansfield 01:45 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1011002.ts
-#EXTINF:-1 tvg-id="livefootball02stuttgartvsbayernmunich0130vn" tvg-name="Live Football 02: Stuttgart vs Bayern Munich 01:30 (VN)" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football 02: Stuttgart vs Bayern Munich 01:30 (VN)
+#EXTINF:-1 tvg-id="livefootball02grimsbyvsmanchesterunited0200vn" tvg-name="Live Football 02: Grimsby vs Manchester United 02:00 (VN)" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football 02: Grimsby vs Manchester United 02:00 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1011001.ts
 #EXTINF:-1 tvg-id="livefootball03dortmundvsjuventus2230vn" tvg-name="Live Football 03: Dortmund vs Juventus 22:30 (VN)" tvg-logo="https://play-lh.googleusercontent.com/TpkRV7LeZ1p6pFq2bkejGZAGlwdciSH4VlMX-zl-c-59q6yLoDxGgrv6NBvpsjzceBU" group-title="Live Cup/Football Events 2",Live Football 03: Dortmund vs Juventus 22:30 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1011000.ts
@@ -1879,15 +1879,17 @@ http://groundhogday.in:80/live/Jok123/Jok123/1030762.ts
 http://groundhogday.in:80/live/Jok123/Jok123/1030761.ts
 #EXTINF:-1 tvg-id="usatennisplus" tvg-name="USA: Tennis Plus" tvg-logo="" group-title="Tennis Events",USA: Tennis Plus
 http://groundhogday.in:80/live/Jok123/Jok123/1030763.ts
-#EXTINF:-1 tvg-id="uefa01kairatvsceltic2345vn" tvg-name="UEFA  | 01 - Kairat vs Celtic 23:45 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA  | 01 - Kairat vs Celtic 23:45 (VN)
+#EXTINF:-1 tvg-id="uefa01karabaqvsferencvaros2345vn" tvg-name="UEFA  | 01 - KarabaQ vs Ferencvaros 23:45 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA  | 01 - KarabaQ vs Ferencvaros 23:45 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123440.ts
+#EXTINF:-1 tvg-id="uefa02benficavsfenerbahce0200vn" tvg-name="UEFA  | 02- Benfica vs Fenerbahce 02:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA  | 02- Benfica vs Fenerbahce 02:00 (VN)
+http://groundhogday.in:80/live/Jok123/Jok123/1123439.ts
 #EXTINF:-1 tvg-id="uefa16northmacedoniavswales0145vn" tvg-name="UEFA  | 16 - North Macedonia vs wales 01:45 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA  | 16 - North Macedonia vs wales 01:45 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123425.ts
 #EXTINF:-1 tvg-id="uefa19mauritaniavscongo0300vn" tvg-name="UEFA  | 19 - Mauritania vs Congo 03:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA  | 19 - Mauritania vs Congo 03:00 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123422.ts
-#EXTINF:-1 tvg-id="uefa03sturmgrazvsbodoglimt0200vn" tvg-name="UEFA | 03 - Sturm Graz vs Bodo/Glimt 02:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA | 03 - Sturm Graz vs Bodo/Glimt 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa03clubbruggevsrangers0200vn" tvg-name="UEFA | 03 - Club Brugge vs Rangers 02:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA | 03 - Club Brugge vs Rangers 02:00 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123438.ts
-#EXTINF:-1 tvg-id="uefa04fenerbahcevsbenfica0200vn" tvg-name="UEFA | 04 - Fenerbahce vs Benfica 02:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA | 04 - Fenerbahce vs Benfica 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa04kobenhavenvsbasel0200vn" tvg-name="UEFA | 04 - Kobenhaven vs Basel 02:00 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA | 04 - Kobenhaven vs Basel 02:00 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123437.ts
 #EXTINF:-1 tvg-id="uefa05jagielloniavsrealbetis2345vn" tvg-name="UEFA | 05 - Jagiellonia vs Real Betis 23:45 (VN)" tvg-logo="s:1:/images/wSKOFg54KyQTKmaMUcKAL6CvSDL74APv36ej3U6JCNpMCxXWhddgfPTmMzBLRgOs99t_dosRqqvKYElQd5lU6y0L-UmJ6Jw4e76MaxFdZY4.png" group-title="UEFA Games",UEFA | 05 - Jagiellonia vs Real Betis 23:45 (VN)
 http://groundhogday.in:80/live/Jok123/Jok123/1123436.ts
@@ -5475,13 +5477,13 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838276.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838275.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague15" tvg-name="US (P+) UEFA Champions League 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 15
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838274.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague1kairatalmatyvsceltic2682330vn" tvg-name="US (P+) UEFA Champions League 1: Kairat Almaty vs Celtic | 26/8 23:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1: Kairat Almaty vs Celtic | 26/8 23:30 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague1qarabaäÿfkvsferencvãros2782330vn" tvg-name="US (P+) UEFA Champions League 1: QarabaÄŸ FK vs FerencvÃ¡ros | 27/8 23:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1: QarabaÄŸ FK vs FerencvÃ¡ros | 27/8 23:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague2sturmgrazvsbodãglimt2780150vn" tvg-name="US (P+) UEFA Champions League 2: Sturm Graz vs BodÃ¸/Glimt | 27/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2: Sturm Graz vs BodÃ¸/Glimt | 27/8 01:50 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague2benficavsfenerbahãe2880150vn" tvg-name="US (P+) UEFA Champions League 2: Benfica vs FenerbahÃ§e | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2: Benfica vs FenerbahÃ§e | 28/8 01:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838287.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague3pafosvscrvenazvezda2780150vn" tvg-name="US (P+) UEFA Champions League 3: Pafos vs Crvena Zvezda | 27/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3: Pafos vs Crvena Zvezda | 27/8 01:50 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague3clubbruggevsrangers2880150vn" tvg-name="US (P+) UEFA Champions League 3: Club Brugge vs Rangers | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3: Club Brugge vs Rangers | 28/8 01:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838286.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague4" tvg-name="US (P+) UEFA Champions League 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4
+#EXTINF:-1 tvg-id="uspuefachampionsleague4copenhagenvsbasel2880150vn" tvg-name="US (P+) UEFA Champions League 4: Copenhagen vs Basel | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4: Copenhagen vs Basel | 28/8 01:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838285.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague5" tvg-name="US (P+) UEFA Champions League 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838284.ts
