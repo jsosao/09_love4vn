@@ -2401,13 +2401,13 @@ http://groundhogday.in:80/live/Jok123/Jok123/5620901.ts
 http://groundhogday.in:80/live/Jok123/Jok123/5620900.ts
 #EXTINF:-1 tvg-id="ws31" tvg-name="WS: 31" tvg-logo="" group-title="World Sport Events",WS: 31
 http://groundhogday.in:80/live/Jok123/Jok123/5620899.ts
-#EXTINF:-1 tvg-id="skysports010145oxfordunitedvsbrightonhovealbion" tvg-name="Sky Sports+ 01: 01:45 Oxford United vs Brighton & Hove Albion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 01: 01:45 Oxford United vs Brighton & Hove Albion
+#EXTINF:-1 tvg-id="skysports01" tvg-name="Sky Sports+ 01:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 01:
 http://groundhogday.in:80/live/Jok123/Jok123/5661514.ts
-#EXTINF:-1 tvg-id="skysports020145fulhamvsbristolcity" tvg-name="Sky Sports+ 02: 01:45 Fulham vs Bristol City" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 02: 01:45 Fulham vs Bristol City
+#EXTINF:-1 tvg-id="skysports02" tvg-name="Sky Sports+ 02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 02:
 http://groundhogday.in:80/live/Jok123/Jok123/5661513.ts
-#EXTINF:-1 tvg-id="skysports030145evertonvsmansfieldtown" tvg-name="Sky Sports+ 03: 01:45 Everton vs Mansfield Town" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 03: 01:45 Everton vs Mansfield Town
+#EXTINF:-1 tvg-id="skysports03" tvg-name="Sky Sports+ 03:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 03:
 http://groundhogday.in:80/live/Jok123/Jok123/5661512.ts
-#EXTINF:-1 tvg-id="skysports040200grimsbytownvsmanchesterunited" tvg-name="Sky Sports+ 04: 02:00 Grimsby Town vs Manchester United" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 04: 02:00 Grimsby Town vs Manchester United
+#EXTINF:-1 tvg-id="skysports04" tvg-name="Sky Sports+ 04:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 04:
 http://groundhogday.in:80/live/Jok123/Jok123/5661511.ts
 #EXTINF:-1 tvg-id="skysports05" tvg-name="Sky Sports+ 05:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIGmTbkVEnua7trZv2XeeehQIEH9kJlGnvw&s" group-title="Sky Sports + Folder 1",Sky Sports+ 05:
 http://groundhogday.in:80/live/Jok123/Jok123/5661510.ts
@@ -4351,95 +4351,87 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/929742.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/929783.ts
 #EXTINF:-1 tvg-id="beinsportsnewsfhd" tvg-name="beIN SPORTS NEWS (F) - HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/07/beIN-Sports.png" group-title="SPORTS | beIN Media",beIN SPORTS NEWS (F) - HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/929784.ts
-#EXTINF:-1 tvg-id="espn1dcourt52200vn2200vn" tvg-name="ESPN+ 1 (D): Court 5  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/071d1ee7-aebb-4cc4-be2d-1c40174883da/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 1 (D): Court 5  22:00 (VN)-22:00 (VN)
+#EXTINF:-1 tvg-id="espn1dfmchampionshipnellykordanrosezhangfeaturedgroupsfirstround1900vn1900vn" tvg-name="ESPN+ 1 (D): FM Championship: Nelly Korda n Rose Zhang Featured Groups (First Round)  19:00 (VN)-19:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/071d1ee7-aebb-4cc4-be2d-1c40174883da/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 1 (D): FM Championship: Nelly Korda n Rose Zhang Featured Groups (First Round)  19:00 (VN)-19:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707333.ts
-#EXTINF:-1 tvg-id="espn100d" tvg-name="ESPN+ 100 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 100 (D)
+#EXTINF:-1 tvg-id="espn10dlouisarmstrongstadium2200vn2200vn" tvg-name="ESPN+ 10 (D): Louis Armstrong Stadium  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/93abddb8-71b6-4a44-b645-427f24692c92/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309101420" group-title="SPORTS | ESPN+",ESPN+ 10 (D): Louis Armstrong Stadium  22:00 (VN)-22:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/707324.ts
+#EXTINF:-1 tvg-id="espn100dtroyvsnorthalabama0700vn0700vn" tvg-name="ESPN+ 100 (D): Troy vs. North Alabama  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 100 (D): Troy vs. North Alabama  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707234.ts
-#EXTINF:-1 tvg-id="espn101d" tvg-name="ESPN+ 101 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dbf7e4a6-5b3c-425c-9cea-8fe9afb0acef/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111706" group-title="SPORTS | ESPN+",ESPN+ 101 (D)
+#EXTINF:-1 tvg-id="espn101dwesternillinoisvsillinoisstate0700vn0700vn" tvg-name="ESPN+ 101 (D): Western Illinois vs. Illinois State  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dbf7e4a6-5b3c-425c-9cea-8fe9afb0acef/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111706" group-title="SPORTS | ESPN+",ESPN+ 101 (D): Western Illinois vs. Illinois State  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707233.ts
-#EXTINF:-1 tvg-id="espn102d" tvg-name="ESPN+ 102 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e7f3019c-875c-401d-80ec-0b406f8b42e0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111725" group-title="SPORTS | ESPN+",ESPN+ 102 (D)
+#EXTINF:-1 tvg-id="espn102ddaytonvswesternkentucky0700vn0700vn" tvg-name="ESPN+ 102 (D): Dayton vs. Western Kentucky  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e7f3019c-875c-401d-80ec-0b406f8b42e0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111725" group-title="SPORTS | ESPN+",ESPN+ 102 (D): Dayton vs. Western Kentucky  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707232.ts
-#EXTINF:-1 tvg-id="espn103d" tvg-name="ESPN+ 103 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e51a1549-e5e9-40ca-b14f-cd18de64cdfa/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309131418" group-title="SPORTS | ESPN+",ESPN+ 103 (D)
+#EXTINF:-1 tvg-id="espn103dstephenfaustinvshouston0700vn0700vn" tvg-name="ESPN+ 103 (D): Stephen F. Austin vs. Houston  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e51a1549-e5e9-40ca-b14f-cd18de64cdfa/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309131418" group-title="SPORTS | ESPN+",ESPN+ 103 (D): Stephen F. Austin vs. Houston  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707231.ts
-#EXTINF:-1 tvg-id="espn104d" tvg-name="ESPN+ 104 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2ff9c7b8-5e47-448c-8a21-73d07b0d9a12/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111728" group-title="SPORTS | ESPN+",ESPN+ 104 (D)
+#EXTINF:-1 tvg-id="espn104dsanjosãstatevssaintmarys0700vn0700vn" tvg-name="ESPN+ 104 (D): San JosÃ© State vs. Saint Marys  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2ff9c7b8-5e47-448c-8a21-73d07b0d9a12/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111728" group-title="SPORTS | ESPN+",ESPN+ 104 (D): San JosÃ© State vs. Saint Marys  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707230.ts
-#EXTINF:-1 tvg-id="espn105d" tvg-name="ESPN+ 105 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bdf30042-5fb5-44e6-b14c-56b01c3a5ac6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111728" group-title="SPORTS | ESPN+",ESPN+ 105 (D)
+#EXTINF:-1 tvg-id="espn105didahostatevsoregonstate0700vn0700vn" tvg-name="ESPN+ 105 (D): Idaho State vs. Oregon State  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bdf30042-5fb5-44e6-b14c-56b01c3a5ac6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111728" group-title="SPORTS | ESPN+",ESPN+ 105 (D): Idaho State vs. Oregon State  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707229.ts
-#EXTINF:-1 tvg-id="espn106d" tvg-name="ESPN+ 106 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bfefab1e-f47a-4269-915f-1f07d023d70f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 106 (D)
+#EXTINF:-1 tvg-id="espn106d17mississippistatevsbaylor0700vn0700vn" tvg-name="ESPN+ 106 (D): #17 Mississippi State vs. Baylor  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bfefab1e-f47a-4269-915f-1f07d023d70f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 106 (D): #17 Mississippi State vs. Baylor  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707228.ts
-#EXTINF:-1 tvg-id="espn107d" tvg-name="ESPN+ 107 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9e0e63ba-01e5-4d2a-b6dd-266f077f2e44/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111742" group-title="SPORTS | ESPN+",ESPN+ 107 (D)
+#EXTINF:-1 tvg-id="espn107ducdavisvslamar0700vn0700vn" tvg-name="ESPN+ 107 (D): UC Davis vs. Lamar  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9e0e63ba-01e5-4d2a-b6dd-266f077f2e44/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111742" group-title="SPORTS | ESPN+",ESPN+ 107 (D): UC Davis vs. Lamar  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707227.ts
-#EXTINF:-1 tvg-id="espn108d" tvg-name="ESPN+ 108 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d07e25f4-bdef-4e20-a3a3-7e37aa50c18b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111814" group-title="SPORTS | ESPN+",ESPN+ 108 (D)
+#EXTINF:-1 tvg-id="espn108dnorfolkstatebandhalftimeperformance0700vn0700vn" tvg-name="ESPN+ 108 (D): Norfolk State Band Halftime Performance  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d07e25f4-bdef-4e20-a3a3-7e37aa50c18b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111814" group-title="SPORTS | ESPN+",ESPN+ 108 (D): Norfolk State Band Halftime Performance  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707226.ts
-#EXTINF:-1 tvg-id="espn109d" tvg-name="ESPN+ 109 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1e1c9018-5ea3-4c61-8665-769ad3111e12/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111742" group-title="SPORTS | ESPN+",ESPN+ 109 (D)
+#EXTINF:-1 tvg-id="espn109deasternillinoisvsvalparaiso0700vn0700vn" tvg-name="ESPN+ 109 (D): Eastern Illinois vs. Valparaiso  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1e1c9018-5ea3-4c61-8665-769ad3111e12/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111742" group-title="SPORTS | ESPN+",ESPN+ 109 (D): Eastern Illinois vs. Valparaiso  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707225.ts
-#EXTINF:-1 tvg-id="espn11dcourt70000vn0000vn" tvg-name="ESPN+ 11 (D): Court 7  00:00 (VN)-00:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8f84076a-e38c-419b-98f1-597ce78d2e6b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 11 (D): Court 7  00:00 (VN)-00:00 (VN)
+#EXTINF:-1 tvg-id="espn11dpressconferencesday52200vn2200vn" tvg-name="ESPN+ 11 (D): Press Conferences Day 5  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8f84076a-e38c-419b-98f1-597ce78d2e6b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 11 (D): Press Conferences Day 5  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707323.ts
-#EXTINF:-1 tvg-id="espn110d" tvg-name="ESPN+ 110 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f6a7b4e7-b99b-4de0-9885-893dee5ddf19/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111749" group-title="SPORTS | ESPN+",ESPN+ 110 (D)
+#EXTINF:-1 tvg-id="espn110dtampavs23missouristate0700vn0700vn" tvg-name="ESPN+ 110 (D): Tampa vs. #23 Missouri State  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f6a7b4e7-b99b-4de0-9885-893dee5ddf19/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111749" group-title="SPORTS | ESPN+",ESPN+ 110 (D): Tampa vs. #23 Missouri State  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707224.ts
-#EXTINF:-1 tvg-id="espn111d" tvg-name="ESPN+ 111 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9f7d8dc8-515c-4934-8ade-34b4b90b0bc2/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111747" group-title="SPORTS | ESPN+",ESPN+ 111 (D)
+#EXTINF:-1 tvg-id="espn111dindianavssaintlouis0700vn0700vn" tvg-name="ESPN+ 111 (D): Indiana vs. Saint Louis  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9f7d8dc8-515c-4934-8ade-34b4b90b0bc2/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111747" group-title="SPORTS | ESPN+",ESPN+ 111 (D): Indiana vs. Saint Louis  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707223.ts
-#EXTINF:-1 tvg-id="espn112d" tvg-name="ESPN+ 112 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fef9b6ca-ee6b-409a-97d7-0f165fac14a1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111745" group-title="SPORTS | ESPN+",ESPN+ 112 (D)
+#EXTINF:-1 tvg-id="espn112darkansasstatevscentralarkansas0700vn0700vn" tvg-name="ESPN+ 112 (D): Arkansas State vs. Central Arkansas  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fef9b6ca-ee6b-409a-97d7-0f165fac14a1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111745" group-title="SPORTS | ESPN+",ESPN+ 112 (D): Arkansas State vs. Central Arkansas  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707222.ts
-#EXTINF:-1 tvg-id="espn113d" tvg-name="ESPN+ 113 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7461d97e-cd85-4065-87ca-0f09b394369d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111759" group-title="SPORTS | ESPN+",ESPN+ 113 (D)
+#EXTINF:-1 tvg-id="espn113d10iowavsloyolachicago0700vn0700vn" tvg-name="ESPN+ 113 (D): #10 Iowa vs. Loyola Chicago  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7461d97e-cd85-4065-87ca-0f09b394369d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111759" group-title="SPORTS | ESPN+",ESPN+ 113 (D): #10 Iowa vs. Loyola Chicago  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707221.ts
-#EXTINF:-1 tvg-id="espn114d" tvg-name="ESPN+ 114 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f17893d3-51b7-4f9d-b000-ed02937d0617/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111806" group-title="SPORTS | ESPN+",ESPN+ 114 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707220.ts
-#EXTINF:-1 tvg-id="espn115d" tvg-name="ESPN+ 115 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/21565825-a70f-415e-bcc9-a98e7ca4432b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111811" group-title="SPORTS | ESPN+",ESPN+ 115 (D)
+#EXTINF:-1 tvg-id="espn115dmcneesevsnorthtexas0700vn0700vn" tvg-name="ESPN+ 115 (D): McNeese vs. North Texas  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/21565825-a70f-415e-bcc9-a98e7ca4432b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111811" group-title="SPORTS | ESPN+",ESPN+ 115 (D): McNeese vs. North Texas  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707219.ts
-#EXTINF:-1 tvg-id="espn116d" tvg-name="ESPN+ 116 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b57d9f75-4427-4045-bdea-c722bf6d6263/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111801" group-title="SPORTS | ESPN+",ESPN+ 116 (D)
+#EXTINF:-1 tvg-id="espn116dnorthwesternvsmilwaukee0700vn0700vn" tvg-name="ESPN+ 116 (D): Northwestern vs. Milwaukee  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b57d9f75-4427-4045-bdea-c722bf6d6263/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111801" group-title="SPORTS | ESPN+",ESPN+ 116 (D): Northwestern vs. Milwaukee  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707218.ts
-#EXTINF:-1 tvg-id="espn117d" tvg-name="ESPN+ 117 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b53fb460-4fab-48a0-ae84-84f02dd941fb/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111750" group-title="SPORTS | ESPN+",ESPN+ 117 (D)
+#EXTINF:-1 tvg-id="espn117dgramblingvseasttexasanm2000et0100uk" tvg-name="ESPN+ 117 (D): Grambling vs. East Texas AnM  20:00et-01:00uk" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b53fb460-4fab-48a0-ae84-84f02dd941fb/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111750" group-title="SPORTS | ESPN+",ESPN+ 117 (D): Grambling vs. East Texas AnM  20:00et-01:00uk
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707217.ts
-#EXTINF:-1 tvg-id="espn118d" tvg-name="ESPN+ 118 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2d3e4916-2293-41dc-9312-3fe7ca535a1b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111753" group-title="SPORTS | ESPN+",ESPN+ 118 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707216.ts
-#EXTINF:-1 tvg-id="espn119d" tvg-name="ESPN+ 119 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a9fa3379-5138-4427-b611-de2eb7918750/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111751" group-title="SPORTS | ESPN+",ESPN+ 119 (D)
+#EXTINF:-1 tvg-id="espn119dalcornstatevsnorthwesternstate0700vn0700vn" tvg-name="ESPN+ 119 (D): Alcorn State vs. Northwestern State  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a9fa3379-5138-4427-b611-de2eb7918750/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111751" group-title="SPORTS | ESPN+",ESPN+ 119 (D): Alcorn State vs. Northwestern State  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707215.ts
-#EXTINF:-1 tvg-id="espn12dcourt110000vn0000vn" tvg-name="ESPN+ 12 (D): Court 11  00:00 (VN)-00:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eed7e1ae-a7f4-4768-a572-7a00a7257f02/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 12 (D): Court 11  00:00 (VN)-00:00 (VN)
+#EXTINF:-1 tvg-id="espn12dcourt132200vn2200vn" tvg-name="ESPN+ 12 (D): Court 13  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eed7e1ae-a7f4-4768-a572-7a00a7257f02/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 12 (D): Court 13  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707322.ts
-#EXTINF:-1 tvg-id="espn120d" tvg-name="ESPN+ 120 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e646150e-5d96-4fe7-ada9-608ce600e660/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111808" group-title="SPORTS | ESPN+",ESPN+ 120 (D)
+#EXTINF:-1 tvg-id="espn120dthu828futbolamericas0730vn0730vn" tvg-name="ESPN+ 120 (D): Thu, 8/28 - Futbol Americas  07:30 (VN)-07:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e646150e-5d96-4fe7-ada9-608ce600e660/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111808" group-title="SPORTS | ESPN+",ESPN+ 120 (D): Thu, 8/28 - Futbol Americas  07:30 (VN)-07:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707214.ts
-#EXTINF:-1 tvg-id="espn121d" tvg-name="ESPN+ 121 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ca447ba-dda7-43c3-bf14-6b70e3337857/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111820" group-title="SPORTS | ESPN+",ESPN+ 121 (D)
+#EXTINF:-1 tvg-id="espn121dalabamastatevsuab2030et0130uk" tvg-name="ESPN+ 121 (D): Alabama State vs. UAB  20:30et-01:30uk" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ca447ba-dda7-43c3-bf14-6b70e3337857/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111820" group-title="SPORTS | ESPN+",ESPN+ 121 (D): Alabama State vs. UAB  20:30et-01:30uk
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707213.ts
-#EXTINF:-1 tvg-id="espn122d" tvg-name="ESPN+ 122 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/67ea0707-e215-4fef-90fc-a824d6858fdd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111818" group-title="SPORTS | ESPN+",ESPN+ 122 (D)
+#EXTINF:-1 tvg-id="espn122dmissourivs15memphis0730vn0730vn" tvg-name="ESPN+ 122 (D): Missouri vs. #15 Memphis  07:30 (VN)-07:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/67ea0707-e215-4fef-90fc-a824d6858fdd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309111818" group-title="SPORTS | ESPN+",ESPN+ 122 (D): Missouri vs. #15 Memphis  07:30 (VN)-07:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707212.ts
-#EXTINF:-1 tvg-id="espn123d" tvg-name="ESPN+ 123 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 123 (D)
+#EXTINF:-1 tvg-id="espn123dstephenfaustinvstexasstate0730vn0730vn" tvg-name="ESPN+ 123 (D): Stephen F. Austin vs. Texas State  07:30 (VN)-07:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 123 (D): Stephen F. Austin vs. Texas State  07:30 (VN)-07:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707211.ts
-#EXTINF:-1 tvg-id="espn124d" tvg-name="ESPN+ 124 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 124 (D)
+#EXTINF:-1 tvg-id="espn124dsiuedwardsvillevsairforce0800vn0800vn" tvg-name="ESPN+ 124 (D): SIU Edwardsville vs. Air Force  08:00 (VN)-08:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 124 (D): SIU Edwardsville vs. Air Force  08:00 (VN)-08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707210.ts
-#EXTINF:-1 tvg-id="espn125d" tvg-name="ESPN+ 125 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 125 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707209.ts
-#EXTINF:-1 tvg-id="espn126d" tvg-name="ESPN+ 126 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 126 (D)
+#EXTINF:-1 tvg-id="espn126dgonzagavsincarnateword0800vn0800vn" tvg-name="ESPN+ 126 (D): Gonzaga vs. Incarnate Word  08:00 (VN)-08:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 126 (D): Gonzaga vs. Incarnate Word  08:00 (VN)-08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707208.ts
-#EXTINF:-1 tvg-id="espn127d" tvg-name="ESPN+ 127 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 127 (D)
+#EXTINF:-1 tvg-id="espn127dbostonuniversityvssanfrancisco0800vn0800vn" tvg-name="ESPN+ 127 (D): Boston University vs. San Francisco  08:00 (VN)-08:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 127 (D): Boston University vs. San Francisco  08:00 (VN)-08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707207.ts
-#EXTINF:-1 tvg-id="espn128d" tvg-name="ESPN+ 128 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 128 (D)
+#EXTINF:-1 tvg-id="espn128dnewmexicostatevscolorado0800vn0800vn" tvg-name="ESPN+ 128 (D): New Mexico State vs. Colorado  08:00 (VN)-08:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 128 (D): New Mexico State vs. Colorado  08:00 (VN)-08:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707206.ts
-#EXTINF:-1 tvg-id="espn129d" tvg-name="ESPN+ 129 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 129 (D)
+#EXTINF:-1 tvg-id="espn129dcaliforniavsutahvalley0830vn0830vn" tvg-name="ESPN+ 129 (D): California vs. Utah Valley  08:30 (VN)-08:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 129 (D): California vs. Utah Valley  08:30 (VN)-08:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707205.ts
-#EXTINF:-1 tvg-id="espn13dcourt100100vn0100vn" tvg-name="ESPN+ 13 (D): Court 10  01:00 (VN)-01:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6a1a0ff4-dfcc-4ccd-bfde-2548d2913810/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072328" group-title="SPORTS | ESPN+",ESPN+ 13 (D): Court 10  01:00 (VN)-01:00 (VN)
+#EXTINF:-1 tvg-id="espn13dcourt52200vn2200vn" tvg-name="ESPN+ 13 (D): Court 5  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6a1a0ff4-dfcc-4ccd-bfde-2548d2913810/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072328" group-title="SPORTS | ESPN+",ESPN+ 13 (D): Court 5  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707321.ts
-#EXTINF:-1 tvg-id="espn130d" tvg-name="ESPN+ 130 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 130 (D)
+#EXTINF:-1 tvg-id="espn130duicvsgonzaga0900vn0900vn" tvg-name="ESPN+ 130 (D): UIC vs. Gonzaga  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 130 (D): UIC vs. Gonzaga  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707204.ts
-#EXTINF:-1 tvg-id="espn131d" tvg-name="ESPN+ 131 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 131 (D)
+#EXTINF:-1 tvg-id="espn131dwashingtonvsseattleu0900vn0900vn" tvg-name="ESPN+ 131 (D): Washington vs. Seattle U  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 131 (D): Washington vs. Seattle U  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707203.ts
-#EXTINF:-1 tvg-id="espn132d" tvg-name="ESPN+ 132 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 132 (D)
+#EXTINF:-1 tvg-id="espn132ducfpostgamepressconference0900vn0900vn" tvg-name="ESPN+ 132 (D): UCF Postgame Press Conference  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 132 (D): UCF Postgame Press Conference  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707202.ts
-#EXTINF:-1 tvg-id="espn133d" tvg-name="ESPN+ 133 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 133 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707201.ts
-#EXTINF:-1 tvg-id="espn134d" tvg-name="ESPN+ 134 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 134 (D)
+#EXTINF:-1 tvg-id="espn134dwashingtonstatevsidaho0900vn0900vn" tvg-name="ESPN+ 134 (D): Washington State vs. Idaho  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 134 (D): Washington State vs. Idaho  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707200.ts
-#EXTINF:-1 tvg-id="espn135d" tvg-name="ESPN+ 135 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 135 (D)
+#EXTINF:-1 tvg-id="espn135dpacificvscalstatebakersfield0900vn0900vn" tvg-name="ESPN+ 135 (D): Pacific vs. Cal State Bakersfield  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 135 (D): Pacific vs. Cal State Bakersfield  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707199.ts
-#EXTINF:-1 tvg-id="espn136d" tvg-name="ESPN+ 136 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 136 (D)
+#EXTINF:-1 tvg-id="espn136dsacramentostatevsgrandcanyon0900vn0900vn" tvg-name="ESPN+ 136 (D): Sacramento State vs. Grand Canyon  09:00 (VN)-09:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 136 (D): Sacramento State vs. Grand Canyon  09:00 (VN)-09:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707198.ts
-#EXTINF:-1 tvg-id="espn137d" tvg-name="ESPN+ 137 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 137 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707197.ts
 #EXTINF:-1 tvg-id="espn138d" tvg-name="ESPN+ 138 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 138 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707196.ts
 #EXTINF:-1 tvg-id="espn139d" tvg-name="ESPN+ 139 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 139 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707195.ts
-#EXTINF:-1 tvg-id="espn14dsvwehenwiesbadenvsfcbayernmã¼nchengermancup0130vn0130vn" tvg-name="ESPN+ 14 (D): SV Wehen Wiesbaden vs. FC Bayern MÃ¼nchen (German Cup)  01:30 (VN)-01:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/12a978c2-48c6-4399-909d-c0a6fab848f3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072336" group-title="SPORTS | ESPN+",ESPN+ 14 (D): SV Wehen Wiesbaden vs. FC Bayern MÃ¼nchen (German Cup)  01:30 (VN)-01:30 (VN)
+#EXTINF:-1 tvg-id="espn14dcourt112200vn2200vn" tvg-name="ESPN+ 14 (D): Court 11  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/12a978c2-48c6-4399-909d-c0a6fab848f3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072336" group-title="SPORTS | ESPN+",ESPN+ 14 (D): Court 11  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707320.ts
 #EXTINF:-1 tvg-id="espn140d" tvg-name="ESPN+ 140 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 140 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707194.ts
@@ -4461,7 +4453,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707187.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707186.ts
 #EXTINF:-1 tvg-id="espn149d" tvg-name="ESPN+ 149 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 149 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707185.ts
-#EXTINF:-1 tvg-id="espn15denespaãolsvwehenwiesbadenvsfcbayernmã¼nchengermancup0130vn0130vn" tvg-name="ESPN+ 15 (D): En EspaÃ±ol-SV Wehen Wiesbaden vs. FC Bayern MÃ¼nchen (German Cup)  01:30 (VN)-01:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/09923cba-142c-4e5b-bb59-7e8773a6bf43/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072321" group-title="SPORTS | ESPN+",ESPN+ 15 (D): En EspaÃ±ol-SV Wehen Wiesbaden vs. FC Bayern MÃ¼nchen (German Cup)  01:30 (VN)-01:30 (VN)
+#EXTINF:-1 tvg-id="espn15darthurashestadium2230vn2230vn" tvg-name="ESPN+ 15 (D): Arthur Ashe Stadium  22:30 (VN)-22:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/09923cba-142c-4e5b-bb59-7e8773a6bf43/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072321" group-title="SPORTS | ESPN+",ESPN+ 15 (D): Arthur Ashe Stadium  22:30 (VN)-22:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707319.ts
 #EXTINF:-1 tvg-id="espn150d" tvg-name="ESPN+ 150 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 150 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707184.ts
@@ -4483,7 +4475,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707177.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707176.ts
 #EXTINF:-1 tvg-id="espn159d" tvg-name="ESPN+ 159 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 159 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707175.ts
-#EXTINF:-1 tvg-id="espn16dceltadevigovsrealbetislaliga0150vn0150vn" tvg-name="ESPN+ 16 (D): Celta de Vigo vs. Real Betis (LALIGA)  01:50 (VN)-01:50 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5c7a046f-1293-49b7-b896-dfb7963f9309/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072354" group-title="SPORTS | ESPN+",ESPN+ 16 (D): Celta de Vigo vs. Real Betis (LALIGA)  01:50 (VN)-01:50 (VN)
+#EXTINF:-1 tvg-id="espn16dthepatmcafeeshow2300vn2300vn" tvg-name="ESPN+ 16 (D): The Pat McAfee Show  23:00 (VN)-23:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5c7a046f-1293-49b7-b896-dfb7963f9309/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072354" group-title="SPORTS | ESPN+",ESPN+ 16 (D): The Pat McAfee Show  23:00 (VN)-23:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707318.ts
 #EXTINF:-1 tvg-id="espn160d" tvg-name="ESPN+ 160 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 160 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707174.ts
@@ -4505,7 +4497,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707167.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707166.ts
 #EXTINF:-1 tvg-id="espn169d" tvg-name="ESPN+ 169 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 169 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707165.ts
-#EXTINF:-1 tvg-id="espn17denespaãolceltadevigovsrealbetislaliga0155vn0155vn" tvg-name="ESPN+ 17 (D): En EspaÃ±ol-Celta de Vigo vs. Real Betis (LALIGA)  01:55 (VN)-01:55 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/be2326c0-cf2c-48b5-ab34-b20b1263e191/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072320" group-title="SPORTS | ESPN+",ESPN+ 17 (D): En EspaÃ±ol-Celta de Vigo vs. Real Betis (LALIGA)  01:55 (VN)-01:55 (VN)
+#EXTINF:-1 tvg-id="espn17dhowardvsamericanuniversity0000vn0000vn" tvg-name="ESPN+ 17 (D): Howard vs. American University  00:00 (VN)-00:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/be2326c0-cf2c-48b5-ab34-b20b1263e191/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072320" group-title="SPORTS | ESPN+",ESPN+ 17 (D): Howard vs. American University  00:00 (VN)-00:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707317.ts
 #EXTINF:-1 tvg-id="espn170d" tvg-name="ESPN+ 170 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 170 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707164.ts
@@ -4527,7 +4519,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707157.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707156.ts
 #EXTINF:-1 tvg-id="espn179d" tvg-name="ESPN+ 179 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 179 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707155.ts
-#EXTINF:-1 tvg-id="espn18dwed827espnfc0345vn0345vn" tvg-name="ESPN+ 18 (D): Wed, 8/27 - ESPN FC  03:45 (VN)-03:45 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20db4635-18c8-4e17-97af-67745c1cc55e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072359" group-title="SPORTS | ESPN+",ESPN+ 18 (D): Wed, 8/27 - ESPN FC  03:45 (VN)-03:45 (VN)
+#EXTINF:-1 tvg-id="espn18dchicagostatevsdepaul0030vn0030vn" tvg-name="ESPN+ 18 (D): Chicago State vs. DePaul  00:30 (VN)-00:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20db4635-18c8-4e17-97af-67745c1cc55e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072359" group-title="SPORTS | ESPN+",ESPN+ 18 (D): Chicago State vs. DePaul  00:30 (VN)-00:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707316.ts
 #EXTINF:-1 tvg-id="espn180d" tvg-name="ESPN+ 180 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 180 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707154.ts
@@ -4549,7 +4541,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707147.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707146.ts
 #EXTINF:-1 tvg-id="espn189d" tvg-name="ESPN+ 189 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 189 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707145.ts
-#EXTINF:-1 tvg-id="espn19denespaãolmie827bundesligaweekly0430vn0430vn" tvg-name="ESPN+ 19 (D): En EspaÃ±ol - Mie, 8/27 - Bundesliga Weekly  04:30 (VN)-04:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ca198b39-4f9f-46bc-90aa-065a5441f64c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 19 (D): En EspaÃ±ol - Mie, 8/27 - Bundesliga Weekly  04:30 (VN)-04:30 (VN)
+#EXTINF:-1 tvg-id="espn19dflamescentral0100vn0100vn" tvg-name="ESPN+ 19 (D): Flames Central  01:00 (VN)-01:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ca198b39-4f9f-46bc-90aa-065a5441f64c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 19 (D): Flames Central  01:00 (VN)-01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707315.ts
 #EXTINF:-1 tvg-id="espn190d" tvg-name="ESPN+ 190 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 190 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707144.ts
@@ -4571,9 +4563,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707137.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707136.ts
 #EXTINF:-1 tvg-id="espn199d" tvg-name="ESPN+ 199 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 199 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707135.ts
-#EXTINF:-1 tvg-id="espn2dlouisarmstrongstadium2200vn2200vn" tvg-name="ESPN+ 2 (D): Louis Armstrong Stadium  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cc51a58a-0d2f-4680-a355-ea7acec6d1a9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 2 (D): Louis Armstrong Stadium  22:00 (VN)-22:00 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707332.ts
-#EXTINF:-1 tvg-id="espn20dwed827bundesligaweekly0430vn0430vn" tvg-name="ESPN+ 20 (D): Wed, 8/27 - Bundesliga Weekly  04:30 (VN)-04:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1034486f-871c-4c3f-9752-5fb9ff7ac86e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 20 (D): Wed, 8/27 - Bundesliga Weekly  04:30 (VN)-04:30 (VN)
+#EXTINF:-1 tvg-id="espn20deasternmichiganvssouthernindiana0100vn0100vn" tvg-name="ESPN+ 20 (D): Eastern Michigan vs. Southern Indiana  01:00 (VN)-01:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1034486f-871c-4c3f-9752-5fb9ff7ac86e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 20 (D): Eastern Michigan vs. Southern Indiana  01:00 (VN)-01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707314.ts
 #EXTINF:-1 tvg-id="espn200d" tvg-name="ESPN+ 200 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 200 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707134.ts
@@ -4595,7 +4585,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707127.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707126.ts
 #EXTINF:-1 tvg-id="espn209d" tvg-name="ESPN+ 209 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 209 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707125.ts
-#EXTINF:-1 tvg-id="espn21dmarshillvsuncasheville0500vn0500vn" tvg-name="ESPN+ 21 (D): Mars Hill vs. UNC Asheville  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/41137083-2c26-4f97-8ad6-6f1f52abb415/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 21 (D): Mars Hill vs. UNC Asheville  05:00 (VN)-05:00 (VN)
+#EXTINF:-1 tvg-id="espn21dsyracusevsquinnipiac0130vn0130vn" tvg-name="ESPN+ 21 (D): Syracuse vs. Quinnipiac  01:30 (VN)-01:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/41137083-2c26-4f97-8ad6-6f1f52abb415/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 21 (D): Syracuse vs. Quinnipiac  01:30 (VN)-01:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707313.ts
 #EXTINF:-1 tvg-id="espn210d" tvg-name="ESPN+ 210 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 210 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707124.ts
@@ -4617,7 +4607,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707117.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707116.ts
 #EXTINF:-1 tvg-id="espn219d" tvg-name="ESPN+ 219 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 219 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707115.ts
-#EXTINF:-1 tvg-id="espn22diuindianapolisvsindianastate0600vn0600vn" tvg-name="ESPN+ 22 (D): IU Indianapolis vs. Indiana State  06:00 (VN)-06:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf410b0a-ee6e-4e4d-93ce-87496f9ddb57/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 22 (D): IU Indianapolis vs. Indiana State  06:00 (VN)-06:00 (VN)
+#EXTINF:-1 tvg-id="espn22dbigwestwomensvolleyballpreview0300vn0300vn" tvg-name="ESPN+ 22 (D): Big West Womens Volleyball Preview  03:00 (VN)-03:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf410b0a-ee6e-4e4d-93ce-87496f9ddb57/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309122044" group-title="SPORTS | ESPN+",ESPN+ 22 (D): Big West Womens Volleyball Preview  03:00 (VN)-03:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707312.ts
 #EXTINF:-1 tvg-id="espn220d" tvg-name="ESPN+ 220 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 220 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707114.ts
@@ -4639,7 +4629,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707107.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707106.ts
 #EXTINF:-1 tvg-id="espn229d" tvg-name="ESPN+ 229 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 229 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707105.ts
-#EXTINF:-1 tvg-id="espn23dutriograndevalleyvsucf1900et0000uk" tvg-name="ESPN+ 23 (D): UT Rio Grande Valley vs. UCF  19:00et-00:00uk" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b7f1d73e-73ad-4546-9b40-57c8e9c75e63/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092350" group-title="SPORTS | ESPN+",ESPN+ 23 (D): UT Rio Grande Valley vs. UCF  19:00et-00:00uk
+#EXTINF:-1 tvg-id="espn23dbinghamtonvsmarist0300vn0300vn" tvg-name="ESPN+ 23 (D): Binghamton vs. Marist  03:00 (VN)-03:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b7f1d73e-73ad-4546-9b40-57c8e9c75e63/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092350" group-title="SPORTS | ESPN+",ESPN+ 23 (D): Binghamton vs. Marist  03:00 (VN)-03:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707311.ts
 #EXTINF:-1 tvg-id="espn230d" tvg-name="ESPN+ 230 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 230 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707104.ts
@@ -4661,7 +4651,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707097.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707096.ts
 #EXTINF:-1 tvg-id="espn239d" tvg-name="ESPN+ 239 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 239 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707095.ts
-#EXTINF:-1 tvg-id="espn24doneknoxvillescvsfcnaples0600vn0600vn" tvg-name="ESPN+ 24 (D): One Knoxville SC vs. FC Naples  06:00 (VN)-06:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/207eb458-df46-480c-aed4-f37bf10d8054/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092345" group-title="SPORTS | ESPN+",ESPN+ 24 (D): One Knoxville SC vs. FC Naples  06:00 (VN)-06:00 (VN)
+#EXTINF:-1 tvg-id="espn24dcanisiusvsrobertmorris0300vn0300vn" tvg-name="ESPN+ 24 (D): Canisius vs. Robert Morris  03:00 (VN)-03:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/207eb458-df46-480c-aed4-f37bf10d8054/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092345" group-title="SPORTS | ESPN+",ESPN+ 24 (D): Canisius vs. Robert Morris  03:00 (VN)-03:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707310.ts
 #EXTINF:-1 tvg-id="espn240d" tvg-name="ESPN+ 240 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 240 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707094.ts
@@ -4683,7 +4673,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707087.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707086.ts
 #EXTINF:-1 tvg-id="espn249d" tvg-name="ESPN+ 249 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 249 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707085.ts
-#EXTINF:-1 tvg-id="espn25dshepherdwvvsmountstmarys0600vn0600vn" tvg-name="ESPN+ 25 (D): Shepherd (WV) vs. Mount St. Marys  06:00 (VN)-06:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/27088a88-2563-4dd8-bfee-9aae838c45c1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092346" group-title="SPORTS | ESPN+",ESPN+ 25 (D): Shepherd (WV) vs. Mount St. Marys  06:00 (VN)-06:00 (VN)
+#EXTINF:-1 tvg-id="espn25dmainevsmerrimack0300vn0300vn" tvg-name="ESPN+ 25 (D): Maine vs. Merrimack  03:00 (VN)-03:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/27088a88-2563-4dd8-bfee-9aae838c45c1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092346" group-title="SPORTS | ESPN+",ESPN+ 25 (D): Maine vs. Merrimack  03:00 (VN)-03:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707309.ts
 #EXTINF:-1 tvg-id="espn250d" tvg-name="ESPN+ 250 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 250 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707084.ts
@@ -4705,7 +4695,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707077.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707076.ts
 #EXTINF:-1 tvg-id="espn259d" tvg-name="ESPN+ 259 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 259 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707075.ts
-#EXTINF:-1 tvg-id="espn26dlemoynevslafayette0600vn0600vn" tvg-name="ESPN+ 26 (D): Le Moyne vs. Lafayette  06:00 (VN)-06:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/32a4c482-92b2-413b-94fb-ed8f257779d3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309080018" group-title="SPORTS | ESPN+",ESPN+ 26 (D): Le Moyne vs. Lafayette  06:00 (VN)-06:00 (VN)
+#EXTINF:-1 tvg-id="espn26dwinthropvsvmi1600et2100uk" tvg-name="ESPN+ 26 (D): Winthrop vs. VMI  16:00et-21:00uk" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/32a4c482-92b2-413b-94fb-ed8f257779d3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309080018" group-title="SPORTS | ESPN+",ESPN+ 26 (D): Winthrop vs. VMI  16:00et-21:00uk
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707308.ts
 #EXTINF:-1 tvg-id="espn260d" tvg-name="ESPN+ 260 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 260 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707074.ts
@@ -4727,7 +4717,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707067.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707066.ts
 #EXTINF:-1 tvg-id="espn269d" tvg-name="ESPN+ 269 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 269 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707065.ts
-#EXTINF:-1 tvg-id="espn27dforwardmadisonvstexomafc0700vn0700vn" tvg-name="ESPN+ 27 (D): Forward Madison vs. Texoma FC  07:00 (VN)-07:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8a1641a6-5e98-42ad-87f6-70f3b42c70e8/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092343" group-title="SPORTS | ESPN+",ESPN+ 27 (D): Forward Madison vs. Texoma FC  07:00 (VN)-07:00 (VN)
+#EXTINF:-1 tvg-id="espn27dgrandcanyonvsportlandstate0300vn0300vn" tvg-name="ESPN+ 27 (D): Grand Canyon vs. Portland State  03:00 (VN)-03:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8a1641a6-5e98-42ad-87f6-70f3b42c70e8/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092343" group-title="SPORTS | ESPN+",ESPN+ 27 (D): Grand Canyon vs. Portland State  03:00 (VN)-03:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707307.ts
 #EXTINF:-1 tvg-id="espn270d" tvg-name="ESPN+ 270 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 270 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707064.ts
@@ -4749,7 +4739,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707057.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707056.ts
 #EXTINF:-1 tvg-id="espn279d" tvg-name="ESPN+ 279 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 279 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707055.ts
-#EXTINF:-1 tvg-id="espn28d" tvg-name="ESPN+ 28 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0921e5ca-083a-447c-b3e9-bb5de734f63d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092339" group-title="SPORTS | ESPN+",ESPN+ 28 (D)
+#EXTINF:-1 tvg-id="espn28dillinoisvsdepaul0400vn0400vn" tvg-name="ESPN+ 28 (D): Illinois vs. DePaul  04:00 (VN)-04:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0921e5ca-083a-447c-b3e9-bb5de734f63d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092339" group-title="SPORTS | ESPN+",ESPN+ 28 (D): Illinois vs. DePaul  04:00 (VN)-04:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707306.ts
 #EXTINF:-1 tvg-id="espn280d" tvg-name="ESPN+ 280 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 280 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707054.ts
@@ -4771,7 +4761,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707047.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707046.ts
 #EXTINF:-1 tvg-id="espn289d" tvg-name="ESPN+ 289 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 289 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707045.ts
-#EXTINF:-1 tvg-id="espn29d" tvg-name="ESPN+ 29 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a333c36e-c992-4761-958d-652a9a95ce82/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 29 (D)
+#EXTINF:-1 tvg-id="espn29dradfordvsrichmond0400vn0400vn" tvg-name="ESPN+ 29 (D): Radford vs. Richmond  04:00 (VN)-04:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a333c36e-c992-4761-958d-652a9a95ce82/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 29 (D): Radford vs. Richmond  04:00 (VN)-04:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707305.ts
 #EXTINF:-1 tvg-id="espn290d" tvg-name="ESPN+ 290 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 290 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707044.ts
@@ -4793,9 +4783,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707037.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707036.ts
 #EXTINF:-1 tvg-id="espn299d" tvg-name="ESPN+ 299 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 299 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707035.ts
-#EXTINF:-1 tvg-id="espn3dstadium172200vn2200vn" tvg-name="ESPN+ 3 (D): Stadium 17  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fdbdf566-5f40-4cf9-92a4-cffa362e874a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 3 (D): Stadium 17  22:00 (VN)-22:00 (VN)
+#EXTINF:-1 tvg-id="espn3dcourt102200vn2200vn" tvg-name="ESPN+ 3 (D): Court 10  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fdbdf566-5f40-4cf9-92a4-cffa362e874a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 3 (D): Court 10  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707331.ts
-#EXTINF:-1 tvg-id="espn30d" tvg-name="ESPN+ 30 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b77b60d1-f108-4747-a80f-612dbe16d006/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092335" group-title="SPORTS | ESPN+",ESPN+ 30 (D)
+#EXTINF:-1 tvg-id="espn30dmissouristatevssoutheastmissouristate0400vn0400vn" tvg-name="ESPN+ 30 (D): Missouri State vs. Southeast Missouri State  04:00 (VN)-04:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b77b60d1-f108-4747-a80f-612dbe16d006/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092335" group-title="SPORTS | ESPN+",ESPN+ 30 (D): Missouri State vs. Southeast Missouri State  04:00 (VN)-04:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707304.ts
 #EXTINF:-1 tvg-id="espn300d" tvg-name="ESPN+ 300 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 300 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707034.ts
@@ -4819,7 +4809,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707027.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707026.ts
 #EXTINF:-1 tvg-id="espn309d" tvg-name="ESPN+ 309 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 309 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707025.ts
-#EXTINF:-1 tvg-id="espn31d" tvg-name="ESPN+ 31 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7ec0f337-e2fd-46cc-a95a-e78825b5c1e6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092342" group-title="SPORTS | ESPN+",ESPN+ 31 (D)
+#EXTINF:-1 tvg-id="espn31dthu828espnfc0430vn0430vn" tvg-name="ESPN+ 31 (D): Thu, 8/28 - ESPN FC  04:30 (VN)-04:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7ec0f337-e2fd-46cc-a95a-e78825b5c1e6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092342" group-title="SPORTS | ESPN+",ESPN+ 31 (D): Thu, 8/28 - ESPN FC  04:30 (VN)-04:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707303.ts
 #EXTINF:-1 tvg-id="espn310d" tvg-name="ESPN+ 310 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 310 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707024.ts
@@ -4841,7 +4831,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707017.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707016.ts
 #EXTINF:-1 tvg-id="espn319d" tvg-name="ESPN+ 319 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 319 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707015.ts
-#EXTINF:-1 tvg-id="espn32d" tvg-name="ESPN+ 32 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/11d42394-0d85-4fec-8747-06306e6eebdf/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309121524" group-title="SPORTS | ESPN+",ESPN+ 32 (D)
+#EXTINF:-1 tvg-id="espn32dlemoynevssiena0430vn0430vn" tvg-name="ESPN+ 32 (D): Le Moyne vs. Siena  04:30 (VN)-04:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/11d42394-0d85-4fec-8747-06306e6eebdf/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309121524" group-title="SPORTS | ESPN+",ESPN+ 32 (D): Le Moyne vs. Siena  04:30 (VN)-04:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707302.ts
 #EXTINF:-1 tvg-id="espn320d" tvg-name="ESPN+ 320 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 320 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707014.ts
@@ -4863,7 +4853,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/707007.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707006.ts
 #EXTINF:-1 tvg-id="espn329d" tvg-name="ESPN+ 329 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 329 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707005.ts
-#EXTINF:-1 tvg-id="espn33d" tvg-name="ESPN+ 33 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49bc59da-4ff1-4075-9482-0adb6f102956/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309121524" group-title="SPORTS | ESPN+",ESPN+ 33 (D)
+#EXTINF:-1 tvg-id="espn33dcolumbiavspepperdine0500vn0500vn" tvg-name="ESPN+ 33 (D): Columbia vs. Pepperdine  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49bc59da-4ff1-4075-9482-0adb6f102956/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309121524" group-title="SPORTS | ESPN+",ESPN+ 33 (D): Columbia vs. Pepperdine  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707301.ts
 #EXTINF:-1 tvg-id="espn330d" tvg-name="ESPN+ 330 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 330 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707004.ts
@@ -4885,7 +4875,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706997.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706996.ts
 #EXTINF:-1 tvg-id="espn339d" tvg-name="ESPN+ 339 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 339 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706995.ts
-#EXTINF:-1 tvg-id="espn34d" tvg-name="ESPN+ 34 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bbd8a6c7-e816-477a-98dc-a6d57f428861/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 34 (D)
+#EXTINF:-1 tvg-id="espn34dlafayettevsbowlinggreen0500vn0500vn" tvg-name="ESPN+ 34 (D): Lafayette vs. Bowling Green  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bbd8a6c7-e816-477a-98dc-a6d57f428861/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 34 (D): Lafayette vs. Bowling Green  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707300.ts
 #EXTINF:-1 tvg-id="espn340d" tvg-name="ESPN+ 340 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 340 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706994.ts
@@ -4907,7 +4897,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706987.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706986.ts
 #EXTINF:-1 tvg-id="espn349d" tvg-name="ESPN+ 349 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 349 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706985.ts
-#EXTINF:-1 tvg-id="espn35d" tvg-name="ESPN+ 35 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1da8cdff-a37d-45cb-95c8-97c3ebc54aed/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092355" group-title="SPORTS | ESPN+",ESPN+ 35 (D)
+#EXTINF:-1 tvg-id="espn35dlasallevscornell0500vn0500vn" tvg-name="ESPN+ 35 (D): La Salle vs. Cornell  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1da8cdff-a37d-45cb-95c8-97c3ebc54aed/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092355" group-title="SPORTS | ESPN+",ESPN+ 35 (D): La Salle vs. Cornell  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707299.ts
 #EXTINF:-1 tvg-id="espn350d" tvg-name="ESPN+ 350 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 350 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706984.ts
@@ -4929,7 +4919,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706977.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706976.ts
 #EXTINF:-1 tvg-id="espn359d" tvg-name="ESPN+ 359 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 359 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706975.ts
-#EXTINF:-1 tvg-id="espn36d" tvg-name="ESPN+ 36 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ad73d7d6-ec15-40a6-826b-815c182e3ec5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309101429" group-title="SPORTS | ESPN+",ESPN+ 36 (D)
+#EXTINF:-1 tvg-id="espn36ddrexelvspennsylvania0500vn0500vn" tvg-name="ESPN+ 36 (D): Drexel vs. Pennsylvania  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ad73d7d6-ec15-40a6-826b-815c182e3ec5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309101429" group-title="SPORTS | ESPN+",ESPN+ 36 (D): Drexel vs. Pennsylvania  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707298.ts
 #EXTINF:-1 tvg-id="espn360d" tvg-name="ESPN+ 360 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 360 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706974.ts
@@ -4951,7 +4941,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706967.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706966.ts
 #EXTINF:-1 tvg-id="espn369d" tvg-name="ESPN+ 369 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 369 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706965.ts
-#EXTINF:-1 tvg-id="espn37d" tvg-name="ESPN+ 37 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/60dcd53a-3a1b-492f-a370-e03dd3722db4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092356" group-title="SPORTS | ESPN+",ESPN+ 37 (D)
+#EXTINF:-1 tvg-id="espn37dprairieviewanmvsincarnateword0500vn0500vn" tvg-name="ESPN+ 37 (D): Prairie View AnM vs. Incarnate Word  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/60dcd53a-3a1b-492f-a370-e03dd3722db4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309092356" group-title="SPORTS | ESPN+",ESPN+ 37 (D): Prairie View AnM vs. Incarnate Word  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707297.ts
 #EXTINF:-1 tvg-id="espn370d" tvg-name="ESPN+ 370 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 370 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706964.ts
@@ -4973,7 +4963,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706957.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706956.ts
 #EXTINF:-1 tvg-id="espn379d" tvg-name="ESPN+ 379 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 379 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706955.ts
-#EXTINF:-1 tvg-id="espn38d" tvg-name="ESPN+ 38 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bcb6f683-222c-48e7-b43c-f0600e2cab63/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 38 (D)
+#EXTINF:-1 tvg-id="espn38ducirvinevssacramentostate0500vn0500vn" tvg-name="ESPN+ 38 (D): UC Irvine vs. Sacramento State  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bcb6f683-222c-48e7-b43c-f0600e2cab63/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 38 (D): UC Irvine vs. Sacramento State  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707296.ts
 #EXTINF:-1 tvg-id="espn380d" tvg-name="ESPN+ 380 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 380 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706954.ts
@@ -4995,7 +4985,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706947.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706946.ts
 #EXTINF:-1 tvg-id="espn389d" tvg-name="ESPN+ 389 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 389 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706945.ts
-#EXTINF:-1 tvg-id="espn39d" tvg-name="ESPN+ 39 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f82d4a22-f913-409f-b8f2-270f879be0d3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100006" group-title="SPORTS | ESPN+",ESPN+ 39 (D)
+#EXTINF:-1 tvg-id="espn39dwilliamnmaryvsjamesmadison0500vn0500vn" tvg-name="ESPN+ 39 (D): William n Mary vs. James Madison  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f82d4a22-f913-409f-b8f2-270f879be0d3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100006" group-title="SPORTS | ESPN+",ESPN+ 39 (D): William n Mary vs. James Madison  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707295.ts
 #EXTINF:-1 tvg-id="espn390d" tvg-name="ESPN+ 390 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 390 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706944.ts
@@ -5017,135 +5007,129 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/706937.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706936.ts
 #EXTINF:-1 tvg-id="espn399d" tvg-name="ESPN+ 399 (D)" tvg-logo="" group-title="SPORTS | ESPN+",ESPN+ 399 (D)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/706935.ts
-#EXTINF:-1 tvg-id="espn4dcourt122200vn2200vn" tvg-name="ESPN+ 4 (D): Court 12  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c84677b8-ad31-4650-8500-1ef2df409fad/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 4 (D): Court 12  22:00 (VN)-22:00 (VN)
+#EXTINF:-1 tvg-id="espn4dcourt72200vn2200vn" tvg-name="ESPN+ 4 (D): Court 7  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c84677b8-ad31-4650-8500-1ef2df409fad/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS | ESPN+",ESPN+ 4 (D): Court 7  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707330.ts
-#EXTINF:-1 tvg-id="espn40d" tvg-name="ESPN+ 40 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6a8c8475-b739-45c0-b84f-887aa719ee45/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100010" group-title="SPORTS | ESPN+",ESPN+ 40 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707294.ts
-#EXTINF:-1 tvg-id="espn41d" tvg-name="ESPN+ 41 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/84c8e6a6-98d8-4d89-8de8-897fee10f279/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100011" group-title="SPORTS | ESPN+",ESPN+ 41 (D)
+#EXTINF:-1 tvg-id="espn41d24virginiatechvsliberty0500vn0500vn" tvg-name="ESPN+ 41 (D): #24 Virginia Tech vs. Liberty  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/84c8e6a6-98d8-4d89-8de8-897fee10f279/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100011" group-title="SPORTS | ESPN+",ESPN+ 41 (D): #24 Virginia Tech vs. Liberty  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707293.ts
-#EXTINF:-1 tvg-id="espn42d" tvg-name="ESPN+ 42 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/990b8914-037d-4799-94f7-fdef20e2cc6c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100020" group-title="SPORTS | ESPN+",ESPN+ 42 (D)
+#EXTINF:-1 tvg-id="espn42dmercyhurstvsyoungstownstate0500vn0500vn" tvg-name="ESPN+ 42 (D): Mercyhurst vs. Youngstown State  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/990b8914-037d-4799-94f7-fdef20e2cc6c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100020" group-title="SPORTS | ESPN+",ESPN+ 42 (D): Mercyhurst vs. Youngstown State  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707292.ts
-#EXTINF:-1 tvg-id="espn43d" tvg-name="ESPN+ 43 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ba09a19f-0232-404a-bab3-dc3b07b284ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100014" group-title="SPORTS | ESPN+",ESPN+ 43 (D)
+#EXTINF:-1 tvg-id="espn43dlafayettevssetonhall0500vn0500vn" tvg-name="ESPN+ 43 (D): Lafayette vs. Seton Hall  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ba09a19f-0232-404a-bab3-dc3b07b284ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100014" group-title="SPORTS | ESPN+",ESPN+ 43 (D): Lafayette vs. Seton Hall  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707291.ts
-#EXTINF:-1 tvg-id="espn44d" tvg-name="ESPN+ 44 (D)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7cfe9f1-609d-4f8b-bba5-1c6ea8a3c057/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100027" group-title="SPORTS | ESPN+",ESPN+ 44 (D)
+#EXTINF:-1 tvg-id="espn44dmountstmarysvsbinghamton0500vn0500vn" tvg-name="ESPN+ 44 (D): Mount St. Marys vs. Binghamton  05:00 (VN)-05:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7cfe9f1-609d-4f8b-bba5-1c6ea8a3c057/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309100027" group-title="SPORTS | ESPN+",ESPN+ 44 (D): Mount St. Marys vs. Binghamton  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707290.ts
-#EXTINF:-1 tvg-id="espn45d" tvg-name="ESPN+ 45 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 45 (D)
+#EXTINF:-1 tvg-id="espn45dmercervsmemphis0500vn0500vn" tvg-name="ESPN+ 45 (D): Mercer vs. Memphis  05:00 (VN)-05:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 45 (D): Mercer vs. Memphis  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707289.ts
-#EXTINF:-1 tvg-id="espn46d" tvg-name="ESPN+ 46 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 46 (D)
+#EXTINF:-1 tvg-id="espn46dmilwaukeevsbradley0500vn0500vn" tvg-name="ESPN+ 46 (D): Milwaukee vs. Bradley  05:00 (VN)-05:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 46 (D): Milwaukee vs. Bradley  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707288.ts
-#EXTINF:-1 tvg-id="espn47d" tvg-name="ESPN+ 47 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 47 (D)
+#EXTINF:-1 tvg-id="espn47dmckendreevsindianastate0500vn0500vn" tvg-name="ESPN+ 47 (D): McKendree vs. Indiana State  05:00 (VN)-05:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 47 (D): McKendree vs. Indiana State  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707287.ts
-#EXTINF:-1 tvg-id="espn48d" tvg-name="ESPN+ 48 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 48 (D)
+#EXTINF:-1 tvg-id="espn48dnewhampshirevsholycross0500vn0500vn" tvg-name="ESPN+ 48 (D): New Hampshire vs. Holy Cross  05:00 (VN)-05:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 48 (D): New Hampshire vs. Holy Cross  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707286.ts
-#EXTINF:-1 tvg-id="espn49d" tvg-name="ESPN+ 49 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 49 (D)
+#EXTINF:-1 tvg-id="espn49duncwilmingtonvseastcarolina0500vn0500vn" tvg-name="ESPN+ 49 (D): UNC Wilmington vs. East Carolina  05:00 (VN)-05:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 49 (D): UNC Wilmington vs. East Carolina  05:00 (VN)-05:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707285.ts
-#EXTINF:-1 tvg-id="espn5dpressconferencesday42200vn2200vn" tvg-name="ESPN+ 5 (D): Press Conferences Day 4  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20d7cfe9-30eb-4910-825f-27eadc614a10/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072259" group-title="SPORTS | ESPN+",ESPN+ 5 (D): Press Conferences Day 4  22:00 (VN)-22:00 (VN)
+#EXTINF:-1 tvg-id="espn5dcourt122200vn2200vn" tvg-name="ESPN+ 5 (D): Court 12  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20d7cfe9-30eb-4910-825f-27eadc614a10/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072259" group-title="SPORTS | ESPN+",ESPN+ 5 (D): Court 12  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707329.ts
-#EXTINF:-1 tvg-id="espn50d" tvg-name="ESPN+ 50 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 50 (D)
+#EXTINF:-1 tvg-id="espn50deasttennesseestatevstennesseetech0530vn0530vn" tvg-name="ESPN+ 50 (D): East Tennessee State vs. Tennessee Tech  05:30 (VN)-05:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 50 (D): East Tennessee State vs. Tennessee Tech  05:30 (VN)-05:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707284.ts
-#EXTINF:-1 tvg-id="espn51d" tvg-name="ESPN+ 51 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 51 (D)
+#EXTINF:-1 tvg-id="espn51dcentralconnecticutvsualbany0530vn0530vn" tvg-name="ESPN+ 51 (D): Central Connecticut vs. UAlbany  05:30 (VN)-05:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 51 (D): Central Connecticut vs. UAlbany  05:30 (VN)-05:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707283.ts
-#EXTINF:-1 tvg-id="espn52d" tvg-name="ESPN+ 52 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 52 (D)
+#EXTINF:-1 tvg-id="espn52ducfpregameshow0530vn0530vn" tvg-name="ESPN+ 52 (D): UCF Pregame Show  05:30 (VN)-05:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 52 (D): UCF Pregame Show  05:30 (VN)-05:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707282.ts
-#EXTINF:-1 tvg-id="espn53d" tvg-name="ESPN+ 53 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 53 (D)
+#EXTINF:-1 tvg-id="espn53dnorthernkentuckyvsbellarmine0600vn0600vn" tvg-name="ESPN+ 53 (D): Northern Kentucky vs. Bellarmine  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 53 (D): Northern Kentucky vs. Bellarmine  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707281.ts
-#EXTINF:-1 tvg-id="espn54d" tvg-name="ESPN+ 54 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 54 (D)
+#EXTINF:-1 tvg-id="espn54dsamfordvsjacksonvillestate0600vn0600vn" tvg-name="ESPN+ 54 (D): Samford vs. Jacksonville State  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 54 (D): Samford vs. Jacksonville State  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707280.ts
-#EXTINF:-1 tvg-id="espn55d" tvg-name="ESPN+ 55 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 55 (D)
+#EXTINF:-1 tvg-id="espn55dchattanoogavsaustinpeay0600vn0600vn" tvg-name="ESPN+ 55 (D): Chattanooga vs. Austin Peay  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 55 (D): Chattanooga vs. Austin Peay  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707279.ts
-#EXTINF:-1 tvg-id="espn56d" tvg-name="ESPN+ 56 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 56 (D)
+#EXTINF:-1 tvg-id="espn56dnewhampshirevsstjohns0600vn0600vn" tvg-name="ESPN+ 56 (D): New Hampshire vs. St. Johns  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 56 (D): New Hampshire vs. St. Johns  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707278.ts
-#EXTINF:-1 tvg-id="espn57d" tvg-name="ESPN+ 57 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 57 (D)
+#EXTINF:-1 tvg-id="espn57dmiddletennesseevssouthalabama0600vn0600vn" tvg-name="ESPN+ 57 (D): Middle Tennessee vs. South Alabama  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 57 (D): Middle Tennessee vs. South Alabama  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707277.ts
-#EXTINF:-1 tvg-id="espn58d" tvg-name="ESPN+ 58 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 58 (D)
+#EXTINF:-1 tvg-id="espn58dlongwoodvsumbc0600vn0600vn" tvg-name="ESPN+ 58 (D): Longwood vs. UMBC  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 58 (D): Longwood vs. UMBC  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707276.ts
-#EXTINF:-1 tvg-id="espn59d" tvg-name="ESPN+ 59 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 59 (D)
+#EXTINF:-1 tvg-id="espn59dvcuvsloyolamaryland0600vn0600vn" tvg-name="ESPN+ 59 (D): VCU vs. Loyola Maryland  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 59 (D): VCU vs. Loyola Maryland  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707275.ts
 #EXTINF:-1 tvg-id="espn6denespaãol2025usopensegundaronda2200vn2200vn" tvg-name="ESPN+ 6 (D): En EspaÃ±ol-2025 US Open (Segunda Ronda)  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3f6ac9c1-46db-4e70-b167-3f96c90c3e1d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072300" group-title="SPORTS | ESPN+",ESPN+ 6 (D): En EspaÃ±ol-2025 US Open (Segunda Ronda)  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707328.ts
-#EXTINF:-1 tvg-id="espn60d" tvg-name="ESPN+ 60 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 60 (D)
+#EXTINF:-1 tvg-id="espn60dbowlinggreenvsdetroitmercy0600vn0600vn" tvg-name="ESPN+ 60 (D): Bowling Green vs. Detroit Mercy  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 60 (D): Bowling Green vs. Detroit Mercy  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707274.ts
-#EXTINF:-1 tvg-id="espn61d" tvg-name="ESPN+ 61 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 61 (D)
+#EXTINF:-1 tvg-id="espn61dcentralmichiganvscincinnati0600vn0600vn" tvg-name="ESPN+ 61 (D): Central Michigan vs. Cincinnati  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 61 (D): Central Michigan vs. Cincinnati  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707273.ts
-#EXTINF:-1 tvg-id="espn62d" tvg-name="ESPN+ 62 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 62 (D)
+#EXTINF:-1 tvg-id="espn62ddelawarestatevsdelaware0600vn0600vn" tvg-name="ESPN+ 62 (D): Delaware State vs. Delaware  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 62 (D): Delaware State vs. Delaware  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707272.ts
-#EXTINF:-1 tvg-id="espn63d" tvg-name="ESPN+ 63 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 63 (D)
+#EXTINF:-1 tvg-id="espn63dwoffordvsgardnerwebb0600vn0600vn" tvg-name="ESPN+ 63 (D): Wofford vs. Gardner-Webb  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 63 (D): Wofford vs. Gardner-Webb  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707271.ts
-#EXTINF:-1 tvg-id="espn64d" tvg-name="ESPN+ 64 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 64 (D)
+#EXTINF:-1 tvg-id="espn64dpresbyterianvsstetson0600vn0600vn" tvg-name="ESPN+ 64 (D): Presbyterian vs. Stetson  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 64 (D): Presbyterian vs. Stetson  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707270.ts
-#EXTINF:-1 tvg-id="espn65d" tvg-name="ESPN+ 65 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 65 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707269.ts
-#EXTINF:-1 tvg-id="espn66d" tvg-name="ESPN+ 66 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 66 (D)
+#EXTINF:-1 tvg-id="espn66dsaintfrancisvsclevelandstate0600vn0600vn" tvg-name="ESPN+ 66 (D): Saint Francis vs. Cleveland State  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 66 (D): Saint Francis vs. Cleveland State  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707268.ts
-#EXTINF:-1 tvg-id="espn67d" tvg-name="ESPN+ 67 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 67 (D)
+#EXTINF:-1 tvg-id="espn67dgeorgiasouthernvswofford0600vn0600vn" tvg-name="ESPN+ 67 (D): Georgia Southern vs. Wofford  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 67 (D): Georgia Southern vs. Wofford  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707267.ts
-#EXTINF:-1 tvg-id="espn68d" tvg-name="ESPN+ 68 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 68 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707266.ts
-#EXTINF:-1 tvg-id="espn69d" tvg-name="ESPN+ 69 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 69 (D)
+#EXTINF:-1 tvg-id="espn69dduquesnevswestvirginia0600vn0600vn" tvg-name="ESPN+ 69 (D): Duquesne vs. West Virginia  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 69 (D): Duquesne vs. West Virginia  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707265.ts
-#EXTINF:-1 tvg-id="espn70d" tvg-name="ESPN+ 70 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 70 (D)
+#EXTINF:-1 tvg-id="espn7dstadium172200vn2200vn" tvg-name="ESPN+ 7 (D): Stadium 17  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ac81931-abcf-4748-ad6f-df978d521df6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072310" group-title="SPORTS | ESPN+",ESPN+ 7 (D): Stadium 17  22:00 (VN)-22:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/707327.ts
+#EXTINF:-1 tvg-id="espn70dgeorgewashingtonvscolgate0600vn0600vn" tvg-name="ESPN+ 70 (D): George Washington vs. Colgate  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 70 (D): George Washington vs. Colgate  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707264.ts
-#EXTINF:-1 tvg-id="espn71d" tvg-name="ESPN+ 71 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 71 (D)
+#EXTINF:-1 tvg-id="espn71dnortheasternvsbryant0600vn0600vn" tvg-name="ESPN+ 71 (D): Northeastern vs. Bryant  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 71 (D): Northeastern vs. Bryant  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707263.ts
-#EXTINF:-1 tvg-id="espn72d" tvg-name="ESPN+ 72 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 72 (D)
+#EXTINF:-1 tvg-id="espn72ddetroitmercyvsbutler0600vn0600vn" tvg-name="ESPN+ 72 (D): Detroit Mercy vs. Butler  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 72 (D): Detroit Mercy vs. Butler  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707262.ts
-#EXTINF:-1 tvg-id="espn73d" tvg-name="ESPN+ 73 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 73 (D)
+#EXTINF:-1 tvg-id="espn73djacksonvillestatevsucf1900et0000uk" tvg-name="ESPN+ 73 (D): Jacksonville State vs. UCF  19:00et-00:00uk" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 73 (D): Jacksonville State vs. UCF  19:00et-00:00uk
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707261.ts
-#EXTINF:-1 tvg-id="espn74d" tvg-name="ESPN+ 74 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 74 (D)
+#EXTINF:-1 tvg-id="espn74ddaytonvseasternillinois0600vn0600vn" tvg-name="ESPN+ 74 (D): Dayton vs. Eastern Illinois  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 74 (D): Dayton vs. Eastern Illinois  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707260.ts
-#EXTINF:-1 tvg-id="espn75d" tvg-name="ESPN+ 75 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 75 (D)
+#EXTINF:-1 tvg-id="espn75dstfrancispavsulmonroe0600vn0600vn" tvg-name="ESPN+ 75 (D): St Francis (PA) vs. UL Monroe  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 75 (D): St Francis (PA) vs. UL Monroe  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707259.ts
-#EXTINF:-1 tvg-id="espn76d" tvg-name="ESPN+ 76 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 76 (D)
+#EXTINF:-1 tvg-id="espn76dmassachusettsvsdartmouth0600vn0600vn" tvg-name="ESPN+ 76 (D): Massachusetts vs. Dartmouth  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 76 (D): Massachusetts vs. Dartmouth  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707258.ts
-#EXTINF:-1 tvg-id="espn77d" tvg-name="ESPN+ 77 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 77 (D)
+#EXTINF:-1 tvg-id="espn77darmyvsmarist0600vn0600vn" tvg-name="ESPN+ 77 (D): Army vs. Marist  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 77 (D): Army vs. Marist  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707257.ts
-#EXTINF:-1 tvg-id="espn78d" tvg-name="ESPN+ 78 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 78 (D)
+#EXTINF:-1 tvg-id="espn78doklahomastatevsrice0600vn0600vn" tvg-name="ESPN+ 78 (D): Oklahoma State vs. Rice  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 78 (D): Oklahoma State vs. Rice  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707256.ts
-#EXTINF:-1 tvg-id="espn79d" tvg-name="ESPN+ 79 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 79 (D)
+#EXTINF:-1 tvg-id="espn79dpurduevsevansville0600vn0600vn" tvg-name="ESPN+ 79 (D): Purdue vs. Evansville  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 79 (D): Purdue vs. Evansville  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707255.ts
-#EXTINF:-1 tvg-id="espn8darthurashestadium2230vn2230vn" tvg-name="ESPN+ 8 (D): Arthur Ashe Stadium  22:30 (VN)-22:30 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/726485e9-fcae-4013-ae3b-b1d09fbab962/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072303" group-title="SPORTS | ESPN+",ESPN+ 8 (D): Arthur Ashe Stadium  22:30 (VN)-22:30 (VN)
+#EXTINF:-1 tvg-id="espn8dcourt62200vn2200vn" tvg-name="ESPN+ 8 (D): Court 6  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/726485e9-fcae-4013-ae3b-b1d09fbab962/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072303" group-title="SPORTS | ESPN+",ESPN+ 8 (D): Court 6  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707326.ts
-#EXTINF:-1 tvg-id="espn80d" tvg-name="ESPN+ 80 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 80 (D)
+#EXTINF:-1 tvg-id="espn80dohiostatevsprinceton0600vn0600vn" tvg-name="ESPN+ 80 (D): Ohio State vs. Princeton  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 80 (D): Ohio State vs. Princeton  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707254.ts
-#EXTINF:-1 tvg-id="espn81d" tvg-name="ESPN+ 81 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 81 (D)
+#EXTINF:-1 tvg-id="espn81dstonehillvsmerrimack0600vn0600vn" tvg-name="ESPN+ 81 (D): Stonehill vs. Merrimack  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 81 (D): Stonehill vs. Merrimack  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707253.ts
-#EXTINF:-1 tvg-id="espn82d" tvg-name="ESPN+ 82 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 82 (D)
+#EXTINF:-1 tvg-id="espn82dunlvvsseattleu0600vn0600vn" tvg-name="ESPN+ 82 (D): UNLV vs. Seattle U  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 82 (D): UNLV vs. Seattle U  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707252.ts
-#EXTINF:-1 tvg-id="espn83d" tvg-name="ESPN+ 83 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 83 (D)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/707251.ts
-#EXTINF:-1 tvg-id="espn84d" tvg-name="ESPN+ 84 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 84 (D)
+#EXTINF:-1 tvg-id="espn84dwyomingvsakron0600vn0600vn" tvg-name="ESPN+ 84 (D): Wyoming vs. Akron  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 84 (D): Wyoming vs. Akron  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707250.ts
-#EXTINF:-1 tvg-id="espn85d" tvg-name="ESPN+ 85 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 85 (D)
+#EXTINF:-1 tvg-id="espn85duconnvsnjit0600vn0600vn" tvg-name="ESPN+ 85 (D): UConn vs. NJIT  06:00 (VN)-06:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 85 (D): UConn vs. NJIT  06:00 (VN)-06:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707249.ts
-#EXTINF:-1 tvg-id="espn86d" tvg-name="ESPN+ 86 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 86 (D)
+#EXTINF:-1 tvg-id="espn86d11virginiavsgeorgemason0615vn0615vn" tvg-name="ESPN+ 86 (D): #11 Virginia vs. George Mason  06:15 (VN)-06:15 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 86 (D): #11 Virginia vs. George Mason  06:15 (VN)-06:15 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707248.ts
-#EXTINF:-1 tvg-id="espn87d" tvg-name="ESPN+ 87 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 87 (D)
+#EXTINF:-1 tvg-id="espn87dwestgeorgiavssamford0630vn0630vn" tvg-name="ESPN+ 87 (D): West Georgia vs. Samford  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 87 (D): West Georgia vs. Samford  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707247.ts
-#EXTINF:-1 tvg-id="espn88d" tvg-name="ESPN+ 88 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 88 (D)
+#EXTINF:-1 tvg-id="espn88darkansasbaptistvshoustonchristian0630vn0630vn" tvg-name="ESPN+ 88 (D): Arkansas Baptist vs. Houston Christian  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 88 (D): Arkansas Baptist vs. Houston Christian  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707246.ts
-#EXTINF:-1 tvg-id="espn89d" tvg-name="ESPN+ 89 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 89 (D)
+#EXTINF:-1 tvg-id="espn89dupperiowavsdrake0630vn0630vn" tvg-name="ESPN+ 89 (D): Upper Iowa vs. Drake  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 89 (D): Upper Iowa vs. Drake  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707245.ts
-#EXTINF:-1 tvg-id="espn9dthepatmcafeeshow2300vn2300vn" tvg-name="ESPN+ 9 (D): The Pat McAfee Show  23:00 (VN)-23:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c59b2934-9387-40a4-9a31-7c81451ec9a4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072315" group-title="SPORTS | ESPN+",ESPN+ 9 (D): The Pat McAfee Show  23:00 (VN)-23:00 (VN)
+#EXTINF:-1 tvg-id="espn9dcourt152200vn2200vn" tvg-name="ESPN+ 9 (D): Court 15  22:00 (VN)-22:00 (VN)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c59b2934-9387-40a4-9a31-7c81451ec9a4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202309072315" group-title="SPORTS | ESPN+",ESPN+ 9 (D): Court 15  22:00 (VN)-22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707325.ts
-#EXTINF:-1 tvg-id="espn90d" tvg-name="ESPN+ 90 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 90 (D)
+#EXTINF:-1 tvg-id="espn90dsouthdakotavseasternwashington0630vn0630vn" tvg-name="ESPN+ 90 (D): South Dakota vs. Eastern Washington  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 90 (D): South Dakota vs. Eastern Washington  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707244.ts
-#EXTINF:-1 tvg-id="espn91d" tvg-name="ESPN+ 91 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 91 (D)
+#EXTINF:-1 tvg-id="espn91dutmartinvsoklahomastate0630vn0630vn" tvg-name="ESPN+ 91 (D): UT Martin vs. Oklahoma State  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 91 (D): UT Martin vs. Oklahoma State  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707243.ts
-#EXTINF:-1 tvg-id="espn92d" tvg-name="ESPN+ 92 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 92 (D)
+#EXTINF:-1 tvg-id="espn92delonvsduke0630vn0630vn" tvg-name="ESPN+ 92 (D): Elon vs. Duke  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 92 (D): Elon vs. Duke  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707242.ts
-#EXTINF:-1 tvg-id="espn93d" tvg-name="ESPN+ 93 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 93 (D)
+#EXTINF:-1 tvg-id="espn93deasternkentuckyvsmoreheadstate0630vn0630vn" tvg-name="ESPN+ 93 (D): Eastern Kentucky vs. Morehead State  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 93 (D): Eastern Kentucky vs. Morehead State  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707241.ts
-#EXTINF:-1 tvg-id="espn94d" tvg-name="ESPN+ 94 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 94 (D)
+#EXTINF:-1 tvg-id="espn94dlouisianavsutriograndevalley0630vn0630vn" tvg-name="ESPN+ 94 (D): Louisiana vs. UT Rio Grande Valley  06:30 (VN)-06:30 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 94 (D): Louisiana vs. UT Rio Grande Valley  06:30 (VN)-06:30 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707240.ts
-#EXTINF:-1 tvg-id="espn95d" tvg-name="ESPN+ 95 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 95 (D)
+#EXTINF:-1 tvg-id="espn95dsmuvstexastech0700vn0700vn" tvg-name="ESPN+ 95 (D): SMU vs. Texas Tech  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 95 (D): SMU vs. Texas Tech  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707239.ts
-#EXTINF:-1 tvg-id="espn96d" tvg-name="ESPN+ 96 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 96 (D)
+#EXTINF:-1 tvg-id="espn96dsouthernnazarenevstulsa0700vn0700vn" tvg-name="ESPN+ 96 (D): Southern Nazarene vs. Tulsa  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 96 (D): Southern Nazarene vs. Tulsa  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707238.ts
-#EXTINF:-1 tvg-id="espn97d" tvg-name="ESPN+ 97 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 97 (D)
+#EXTINF:-1 tvg-id="espn97ddrakevssiuedwardsville0700vn0700vn" tvg-name="ESPN+ 97 (D): Drake vs. SIU Edwardsville  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 97 (D): Drake vs. SIU Edwardsville  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707237.ts
-#EXTINF:-1 tvg-id="espn98d" tvg-name="ESPN+ 98 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 98 (D)
+#EXTINF:-1 tvg-id="espn98ddrakevsmarquette0700vn0700vn" tvg-name="ESPN+ 98 (D): Drake vs. Marquette  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 98 (D): Drake vs. Marquette  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707236.ts
-#EXTINF:-1 tvg-id="espn99d" tvg-name="ESPN+ 99 (D)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 99 (D)
+#EXTINF:-1 tvg-id="espn99dtexasanmcorpuschristivssamhouston0700vn0700vn" tvg-name="ESPN+ 99 (D): Texas AnM-Corpus Christi vs. Sam Houston  07:00 (VN)-07:00 (VN)" tvg-logo="https://espnpressroom.com/us/files/2011/11/ESPN-Events-Positive.png" group-title="SPORTS | ESPN+",ESPN+ 99 (D): Texas AnM-Corpus Christi vs. Sam Houston  07:00 (VN)-07:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/707235.ts
 #EXTINF:-1 tvg-id="cafubopremierleaguetv" tvg-name="CA | Fubo Premier League TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FuboSportPL.png" group-title="SPORTS | Fubo Sports",CA | Fubo Premier League TV
 http://tv.8dott.xyz:80/live/samuel/samuel123456/839246.ts
