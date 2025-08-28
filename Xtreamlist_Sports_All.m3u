@@ -5,7 +5,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/3475834.ts
 http://groundhogday.in:80/live/Jok123/Jok123/3475835.ts
 #EXTINF:-1 tvg-id="foot030145linfieldvsshelbourne" tvg-name="FOOT 03: 01:45 Linfield vs Shelbourne" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 03: 01:45 Linfield vs Shelbourne
 http://groundhogday.in:80/live/Jok123/Jok123/3475836.ts
-#EXTINF:-1 tvg-id="foot040200legiawarszawavshibernianpossiblenoenglishaudio" tvg-name="FOOT 04: 02:00 Legia Warszawa vs Hibernian - Possible No english audio" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 04: 02:00 Legia Warszawa vs Hibernian - Possible No english audio
+#EXTINF:-1 tvg-id="foot040200legiawarszawavshibernian" tvg-name="FOOT 04: 02:00 Legia Warszawa vs Hibernian" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 04: 02:00 Legia Warszawa vs Hibernian
 http://groundhogday.in:80/live/Jok123/Jok123/3475837.ts
 #EXTINF:-1 tvg-id="foot050200shamrockroversvssantaclaraalsoloitvsection" tvg-name="FOOT 05: 02:00 Shamrock Rovers vs Santa Clara - Also LOITV Section" tvg-logo="https://play-lh.googleusercontent.com/QwEhkFK5aog3hNMUzDM8Tv0Q4wrr5Q9Nde32oRakQv09ecW2Oop-OXywpSTU-o69MQ" group-title="Live Cup/Football Events 1",FOOT 05: 02:00 Shamrock Rovers vs Santa Clara - Also LOITV Section
 http://groundhogday.in:80/live/Jok123/Jok123/3475838.ts
@@ -5447,6 +5447,8 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634839.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634840.ts
 #EXTINF:-1 tvg-id="uspitalyseriea9" tvg-name="US (P+) Italy SerieA 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634841.ts
+#EXTINF:-1 tvg-id="uspuefachampionsleague1" tvg-name="US (P+) UEFA Champions League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague10" tvg-name="US (P+) UEFA Champions League 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838279.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague11" tvg-name="US (P+) UEFA Champions League 11" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 11
@@ -5459,13 +5461,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838276.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838275.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague15" tvg-name="US (P+) UEFA Champions League 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 15
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838274.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague1qarabaäÿfkvsferencvãros2782330vn" tvg-name="US (P+) UEFA Champions League 1: QarabaÄŸ FK vs FerencvÃ¡ros | 27/8 23:30 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1: QarabaÄŸ FK vs FerencvÃ¡ros | 27/8 23:30 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague2benficavsfenerbahãe2880150vn" tvg-name="US (P+) UEFA Champions League 2: Benfica vs FenerbahÃ§e | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2: Benfica vs FenerbahÃ§e | 28/8 01:50 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague2" tvg-name="US (P+) UEFA Champions League 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838287.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague3clubbruggevsrangers2880150vn" tvg-name="US (P+) UEFA Champions League 3: Club Brugge vs Rangers | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3: Club Brugge vs Rangers | 28/8 01:50 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague3" tvg-name="US (P+) UEFA Champions League 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838286.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague4copenhagenvsbasel2880150vn" tvg-name="US (P+) UEFA Champions League 4: Copenhagen vs Basel | 28/8 01:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4: Copenhagen vs Basel | 28/8 01:50 (VN)
+#EXTINF:-1 tvg-id="uspuefachampionsleague4" tvg-name="US (P+) UEFA Champions League 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838285.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague5" tvg-name="US (P+) UEFA Champions League 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838284.ts
