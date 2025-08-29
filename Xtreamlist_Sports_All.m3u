@@ -523,13 +523,13 @@ http://groundhogday.in:80/live/Jok123/Jok123/7353761.ts
 http://groundhogday.in:80/live/Jok123/Jok123/7353760.ts
 #EXTINF:-1 tvg-id="footballevent99" tvg-name="Football Event 99:" tvg-logo="" group-title="International Football Events",Football Event 99:
 http://groundhogday.in:80/live/Jok123/Jok123/7353759.ts
-#EXTINF:-1 tvg-id="es010030elchevslevante0230valenciavsgetafe" tvg-name="ES01: 00:30 Elche vs Levante // 02:30 Valencia vs Getafe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01: 00:30 Elche vs Levante // 02:30 Valencia vs Getafe
+#EXTINF:-1 tvg-id="es012200deportivoalavésvsatléticomadrid" tvg-name="ES01: 22:00 Deportivo Alavés vs Atlético Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES01: 22:00 Deportivo Alavés vs Atlético Madrid
 http://groundhogday.in:80/live/Jok123/Jok123/3475825.ts
-#EXTINF:-1 tvg-id="es02" tvg-name="ES02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES02:
+#EXTINF:-1 tvg-id="es020000vnoviedovsrealsociedad" tvg-name="ES02: 00:00 (VN) Oviedo vs Real Sociedad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES02: 00:00 (VN) Oviedo vs Real Sociedad
 http://groundhogday.in:80/live/Jok123/Jok123/3475826.ts
-#EXTINF:-1 tvg-id="es03" tvg-name="ES03:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES03:
+#EXTINF:-1 tvg-id="es030030gironavssevilla" tvg-name="ES03: 00:30 Girona vs Sevilla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES03: 00:30 Girona vs Sevilla
 http://groundhogday.in:80/live/Jok123/Jok123/3475827.ts
-#EXTINF:-1 tvg-id="es04" tvg-name="ES04:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES04:
+#EXTINF:-1 tvg-id="es040230vnmadridvsmallorca" tvg-name="ES04: 02:30 (VN) Madrid vs Mallorca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES04: 02:30 (VN) Madrid vs Mallorca
 http://groundhogday.in:80/live/Jok123/Jok123/3475828.ts
 #EXTINF:-1 tvg-id="es05" tvg-name="ES05:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCqnYwrNJRchWyFLSy86tPVV5VJNSAikdhA-mLvfn8g&s" group-title="La Liga / Serie A Games",ES05:
 http://groundhogday.in:80/live/Jok123/Jok123/3475829.ts
@@ -2325,7 +2325,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/1009011.ts
 http://groundhogday.in:80/live/Jok123/Jok123/7344510.ts
 #EXTINF:-1 tvg-id="ws32" tvg-name="WS 32:" tvg-logo="" group-title="World Sport Events",WS 32:
 http://groundhogday.in:80/live/Jok123/Jok123/5620898.ts
-#EXTINF:-1 tvg-id="ws012025fladersdartstrophydayone1200" tvg-name="WS01: 2025 Fladers Darts Trophy - Day One 12:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01: 2025 Fladers Darts Trophy - Day One 12:00
+#EXTINF:-1 tvg-id="ws012025fladersdartstrophydaytwo1200" tvg-name="WS01: 2025 Fladers Darts Trophy - Day Two 12:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS01: 2025 Fladers Darts Trophy - Day Two 12:00
 http://groundhogday.in:80/live/Jok123/Jok123/1008004.ts
 #EXTINF:-1 tvg-id="ws02" tvg-name="WS02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" group-title="World Sport Events",WS02:
 http://groundhogday.in:80/live/Jok123/Jok123/1008003.ts
