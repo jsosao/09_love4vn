@@ -361,11 +361,13 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
 #EXTINF:-1 tvg-id="liveevent062ambkb45" tvg-name="LIVE EVENT 06 - 2AM BKB 45" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 2AM BKB 45
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
+#EXTINF:-1 tvg-id="liveevent07noevent" tvg-name="LIVE EVENT 07 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - NO EVENT
+http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
 #EXTINF:-1 tvg-id="liveevent08noevent" tvg-name="LIVE EVENT 08 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent8.png" group-title="LIVE | PPV Events",LIVE EVENT 08 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174936.ts
 #EXTINF:-1 tvg-id="liveevent09noevent" tvg-name="LIVE EVENT 09 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent9.png" group-title="LIVE | PPV Events",LIVE EVENT 09 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174937.ts
-#EXTINF:-1 tvg-id="liveevent102345vnrdirtcarseriesweedsport" tvg-name="LIVE EVENT 10 - 23:45 (VN)r DIRTcar Series Weedsport" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent10.png" group-title="LIVE | PPV Events",LIVE EVENT 10 - 23:45 (VN)r DIRTcar Series Weedsport
+#EXTINF:-1 tvg-id="liveevent10noevent" tvg-name="LIVE EVENT 10 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent10.png" group-title="LIVE | PPV Events",LIVE EVENT 10 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174933.ts
 #EXTINF:-1 tvg-id="liveevent112350vntahlrtuscarora50portroyal" tvg-name="LIVE EVENT 11 - 23:50 (VN)ta HLR Tuscarora 50 Port Royal" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent11.png" group-title="LIVE | PPV Events",LIVE EVENT 11 - 23:50 (VN)ta HLR Tuscarora 50 Port Royal
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233873.ts
