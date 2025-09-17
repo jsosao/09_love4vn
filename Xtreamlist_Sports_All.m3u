@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="01boxingcaneloalvarezvsterencecrawfordsun0230vn" tvg-name="01. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",01. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/878426.ts
-#EXTINF:-1 tvg-id="02boxingcaneloalvarezvsterencecrawfordsun0230vn" tvg-name="02. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",02. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/878425.ts
-#EXTINF:-1 tvg-id="03boxingcaneloalvarezvsterencecrawfordsun0230vn" tvg-name="03. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",03. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/878424.ts
-#EXTINF:-1 tvg-id="04boxingcaneloalvarezvsterencecrawfordsun0230vn" tvg-name="04. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",04. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/878423.ts
-#EXTINF:-1 tvg-id="05boxingcaneloalvarezvsterencecrawfordsun0230vn" tvg-name="05. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/CanelovsCrawford.jpg" group-title="LIVE | Canelo vs. Crawford",05. BOXING: Canelo Alvarez vs. Terence Crawford (Sun 02:30 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/878422.ts
 #EXTINF:-1 tvg-id="01eplgoalrushmatchday4sat2100vn" tvg-name="01. EPL | Goal Rush Match Day # 4 (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events",01. EPL | Goal Rush Match Day # 4 (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713930.ts
 #EXTINF:-1 tvg-id="02eplgoalrushmatchday4sat2100vn" tvg-name="02. EPL | Goal Rush Match Day # 4 (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events",02. EPL | Goal Rush Match Day # 4 (Sat 21:00 (VN))
@@ -299,9 +289,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/837863.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837860.ts
 #EXTINF:-1 tvg-id="rcceltadevigomatchtimeonly" tvg-name="RC CELTA DE VIGO (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RC-Celta-de-Vigo.png" group-title="LIVE | La Liga Hub",RC CELTA DE VIGO (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837869.ts
-#EXTINF:-1 tvg-id="rcdespanyoltue0200vn" tvg-name="RCD ESPANYOL (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Espanyol.png" group-title="LIVE | La Liga Hub",RCD ESPANYOL (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="rcdespanyolmatchtimeonly" tvg-name="RCD ESPANYOL (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Espanyol.png" group-title="LIVE | La Liga Hub",RCD ESPANYOL (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837868.ts
-#EXTINF:-1 tvg-id="rcdmallorcatue0200vn" tvg-name="RCD MALLORCA (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Mallorca.png" group-title="LIVE | La Liga Hub",RCD MALLORCA (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="rcdmallorcamatchtimeonly" tvg-name="RCD MALLORCA (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Mallorca.png" group-title="LIVE | La Liga Hub",RCD MALLORCA (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837862.ts
 #EXTINF:-1 tvg-id="realbetismatchtimeonly" tvg-name="REAL BETIS (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Betis.png" group-title="LIVE | La Liga Hub",REAL BETIS (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837859.ts
