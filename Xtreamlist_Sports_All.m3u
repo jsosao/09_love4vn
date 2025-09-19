@@ -345,7 +345,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239035.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
 #EXTINF:-1 tvg-id="fitetv6hddtrillertvcmllcmll92ndanniversarysat20sep0430vnet" tvg-name="Fite TV 6 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Sat,20 Sep 04:30 (VN) ET" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite6.png" group-title="LIVE | PPV Events",Fite TV 6 HD (D): TrillerTV-CMLL CMLL 92nd Anniversary - Sat,20 Sep 04:30 (VN) ET
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
-#EXTINF:-1 tvg-id="liveevent011330vnecf98" tvg-name="LIVE EVENT 01 - 13:30 (VN)e CF 98" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 13:30 (VN)e CF 98
+#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
@@ -355,7 +355,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
 #EXTINF:-1 tvg-id="liveevent053pmhexagone" tvg-name="LIVE EVENT 05 - 3PM Hexagone" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 3PM Hexagone
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
-#EXTINF:-1 tvg-id="liveevent066pmbrownvangulo" tvg-name="LIVE EVENT 06 - 6PM Brown v Angulo" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 6PM Brown v Angulo
+#EXTINF:-1 tvg-id="liveevent06noevent" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
 #EXTINF:-1 tvg-id="liveevent077pmshootobrazil132" tvg-name="LIVE EVENT 07 - 7PM Shooto Brazil 132" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - 7PM Shooto Brazil 132
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
