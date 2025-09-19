@@ -349,7 +349,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239015.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
 #EXTINF:-1 tvg-id="liveevent011330vnecf98" tvg-name="LIVE EVENT 01 - 13:30 (VN)e CF 98" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - 13:30 (VN)e CF 98
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent021430vnfridayfights125saemapetchvosmanov" tvg-name="LIVE EVENT 02 - 14:30 (VN) Friday Fights 125 Saemapetch v Osmanov" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 14:30 (VN) Friday Fights 125 Saemapetch v Osmanov
+#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent031930vnehearts" tvg-name="LIVE EVENT 03 - 19:30 (VN)ehearts" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - 19:30 (VN)ehearts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
