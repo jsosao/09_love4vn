@@ -89,7 +89,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256492.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256488.ts
 #EXTINF:-1 tvg-id="astonvillafcmatchtimeonly" tvg-name="ASTON VILLA F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Aston-Villa.png" group-title="LIVE | EPL Hub",ASTON VILLA F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256489.ts
-#EXTINF:-1 tvg-id="brentfordfcmatchtimeonly" tvg-name="BRENTFORD F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brentford.png" group-title="LIVE | EPL Hub",BRENTFORD F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="brentfordfcsun0200vn" tvg-name="BRENTFORD F.C (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brentford.png" group-title="LIVE | EPL Hub",BRENTFORD F.C (Sun 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256490.ts
 #EXTINF:-1 tvg-id="brightonhovealbionfcsat2100vn" tvg-name="BRIGHTON & HOVE ALBION F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Brighton.png" group-title="LIVE | EPL Hub",BRIGHTON & HOVE ALBION F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256491.ts
@@ -111,7 +111,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/174942.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/417163.ts
 #EXTINF:-1 tvg-id="evertonfcsat1830vn" tvg-name="EVERTON F.C (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Everton.png" group-title="LIVE | EPL Hub",EVERTON F.C (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256495.ts
-#EXTINF:-1 tvg-id="fulhamfcmatchtimeonly" tvg-name="FULHAM F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="fulhamfcsun0200vn" tvg-name="FULHAM F.C (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (Sun 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256508.ts
 #EXTINF:-1 tvg-id="leedsunitedfcsat2100vn" tvg-name="LEEDS UNITED F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Leeds-United-FC.png" group-title="LIVE | EPL Hub",LEEDS UNITED F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256497.ts
