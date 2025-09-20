@@ -351,7 +351,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
 #EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
-#EXTINF:-1 tvg-id="liveevent052030vn43" tvg-name="LIVE EVENT 05 - 20:30 (VN) 43" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - 20:30 (VN) 43
+#EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
 #EXTINF:-1 tvg-id="liveevent068pmcollazovvayson" tvg-name="LIVE EVENT 06 - 8PM Collazo v Vayson" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 8PM Collazo v Vayson
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
@@ -371,7 +371,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/233875.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233876.ts
 #EXTINF:-1 tvg-id="liveevent151pmsmartmodifiedsfranklin" tvg-name="LIVE EVENT 15 - 1PM Smart Modifieds Franklin" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent15.png" group-title="LIVE | PPV Events",LIVE EVENT 15 - 1PM Smart Modifieds Franklin
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239245.ts
-#EXTINF:-1 tvg-id="liveevent163pmmonstertrucksslinger" tvg-name="LIVE EVENT 16 - 3PM Monster Trucks Slinger" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - 3PM Monster Trucks Slinger
+#EXTINF:-1 tvg-id="liveevent16noevent" tvg-name="LIVE EVENT 16 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent16.png" group-title="LIVE | PPV Events",LIVE EVENT 16 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233877.ts
 #EXTINF:-1 tvg-id="liveevent182230vnlegendsriverhead" tvg-name="LIVE EVENT 18 - 22:30 (VN) Legends Riverhead" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events",LIVE EVENT 18 - 22:30 (VN) Legends Riverhead
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233879.ts
