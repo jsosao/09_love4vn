@@ -337,12 +337,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/396308.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/945352.ts
 #EXTINF:-1 tvg-id="thmonomaxpl247" tvg-name="TH | MonoMax PL 24/7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 24/7
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697153.ts
-#EXTINF:-1 tvg-id="aewalloutsun0200vn" tvg-name="AEW: All Out (Sun 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/09/AEWAllOut2025.jpg" group-title="LIVE | PPV Events",AEW: All Out (Sun 02:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/323542.ts
-#EXTINF:-1 tvg-id="boxingbreyongorhamvsyomaralamosun0700vn" tvg-name="BOXING: Breyon Gorham vs. Yomar Alamo (Sun 07:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/09/GorhamvsAlamo.jpg" group-title="LIVE | PPV Events",BOXING: Breyon Gorham vs. Yomar Alamo (Sun 07:00 (VN))
-http://tv.8dott.xyz:80/live/samuel/samuel123456/323545.ts
-#EXTINF:-1 tvg-id="boxingoscarcollazovsjaysonvaysonsun0700vn" tvg-name="BOXING: Oscar Collazo vs. Jayson Vayson (Sun 07:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/OscarCollazoVSJaysonVaysonjpg.jpg" group-title="LIVE | PPV Events",BOXING: Oscar Collazo vs. Jayson Vayson (Sun 07:00 (VN))
+#EXTINF:-1 tvg-id="boxingbencrockervsseanmccombsat" tvg-name="BOXING: Ben Crocker vs, Sean McComb (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/Ben-Crocker-VS-Sean-McComb.webp" group-title="LIVE | PPV Events",BOXING: Ben Crocker vs, Sean McComb (Sat)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/323541.ts
+#EXTINF:-1 tvg-id="boxingsolcudosvskimclavelsat" tvg-name="BOXING: Sol Cudos vs. Kim Clavel (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/09/Sol-Cudos-VS-Kim-Clavel.jpg" group-title="LIVE | PPV Events",BOXING: Sol Cudos vs. Kim Clavel (Sat)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/323542.ts
 #EXTINF:-1 tvg-id="daznppvfhd" tvg-name="DAZN PPV FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events",DAZN PPV FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/847486.ts
 #EXTINF:-1 tvg-id="daznppvhd" tvg-name="DAZN PPV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events",DAZN PPV HD
@@ -397,9 +395,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/233882.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233883.ts
 #EXTINF:-1 tvg-id="liveevent232345vnsoiljackson100brownstown" tvg-name="LIVE EVENT 23 - 23:45 (VN)s Oil Jackson 100 Brownstown" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent23.png" group-title="LIVE | PPV Events",LIVE EVENT 23 - 23:45 (VN)s Oil Jackson 100 Brownstown
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233884.ts
-#EXTINF:-1 tvg-id="liveevent24noevent" tvg-name="LIVE EVENT 24 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent24.png" group-title="LIVE | PPV Events",LIVE EVENT 24 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent242345vnsprintsplymouth" tvg-name="LIVE EVENT 24 - 23:45 (VN) Sprints Plymouth" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent24.png" group-title="LIVE | PPV Events",LIVE EVENT 24 - 23:45 (VN) Sprints Plymouth
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233885.ts
-#EXTINF:-1 tvg-id="liveevent25noevent" tvg-name="LIVE EVENT 25 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent25.png" group-title="LIVE | PPV Events",LIVE EVENT 25 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent256pmvictoriaweekendutica" tvg-name="LIVE EVENT 25 - 6PM Victoria Weekend Utica" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent25.png" group-title="LIVE | PPV Events",LIVE EVENT 25 - 6PM Victoria Weekend Utica
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233886.ts
 #EXTINF:-1 tvg-id="liveevent26" tvg-name="LIVE EVENT 26 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent26.png" group-title="LIVE | PPV Events",LIVE EVENT 26 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233887.ts
