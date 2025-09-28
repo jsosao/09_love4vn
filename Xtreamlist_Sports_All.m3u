@@ -359,17 +359,13 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239013.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239010.ts
 #EXTINF:-1 tvg-id="fitetv8hddtrillertvovwproductionovwnorestforthewicked2025mon29sep0100vnet" tvg-name="Fite TV 8 HD (D): TrillerTV-OVW Production OVW: No Rest For The Wicked 2025 - Mon,29 Sep 01:00 (VN) ET" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite8.png" group-title="LIVE | PPV Events",Fite TV 8 HD (D): TrillerTV-OVW Production OVW: No Rest For The Wicked 2025 - Mon,29 Sep 01:00 (VN) ET
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239032.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent021530vnamericasuperbikesnewjersey" tvg-name="LIVE EVENT 02 - 15:30 (VN)America Superbikes New Jersey" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 15:30 (VN)America Superbikes New Jersey
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
-#EXTINF:-1 tvg-id="liveevent03noevent" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - NO EVENT
-http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
-#EXTINF:-1 tvg-id="liveevent04noevent" tvg-name="LIVE EVENT 04 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent042230vnpionshipnightriverhead" tvg-name="LIVE EVENT 04 - 22:30 (VN)pionship Night Riverhead" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events",LIVE EVENT 04 - 22:30 (VN)pionship Night Riverhead
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185092.ts
-#EXTINF:-1 tvg-id="liveevent05noevent" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent056pmkubotahighlimitracingpathvalley" tvg-name="LIVE EVENT 05 -6PM Kubota High Limit Racing Path Valley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events",LIVE EVENT 05 -6PM Kubota High Limit Racing Path Valley
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174932.ts
-#EXTINF:-1 tvg-id="liveevent06noevent" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent066pmroadtothedomecoles" tvg-name="LIVE EVENT 06 - 6PM Road to the Dome Coles" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events",LIVE EVENT 06 - 6PM Road to the Dome Coles
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174934.ts
 #EXTINF:-1 tvg-id="liveevent07noevent" tvg-name="LIVE EVENT 07 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events",LIVE EVENT 07 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174935.ts
