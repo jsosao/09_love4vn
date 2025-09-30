@@ -133,76 +133,74 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256510.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256512.ts
 #EXTINF:-1 tvg-id="wolverhamptonwanderersfcmatchtimeonly" tvg-name="WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Wolves.png" group-title="LIVE | EPL Hub",WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256513.ts
-#EXTINF:-1 tvg-id="01serieaparmavstorinomon2330vn" tvg-name="01. Serie A | Parma vs Torino (Mon 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. Serie A | Parma vs Torino (Mon 23:30 (VN))
+#EXTINF:-1 tvg-id="01uefaclkairatvsrealmadridtue2345vn" tvg-name="01. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174949.ts
-#EXTINF:-1 tvg-id="02serieaparmavstorinomon2330vn" tvg-name="02. Serie A | Parma vs Torino (Mon 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. Serie A | Parma vs Torino (Mon 23:30 (VN))
+#EXTINF:-1 tvg-id="02uefaclkairatvsrealmadridtue2345vn" tvg-name="02. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174952.ts
-#EXTINF:-1 tvg-id="03serieagenoavslaziotue0145vn" tvg-name="03. Serie A | Genoa vs Lazio (Tue 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. Serie A | Genoa vs Lazio (Tue 01:45 (VN))
+#EXTINF:-1 tvg-id="03uefaclkairatvsrealmadridtue2345vn" tvg-name="03. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174938.ts
-#EXTINF:-1 tvg-id="04serieagenoavslaziotue0145vn" tvg-name="04. Serie A | Genoa vs Lazio (Tue 01:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. Serie A | Genoa vs Lazio (Tue 01:45 (VN))
+#EXTINF:-1 tvg-id="04uefaclkairatvsrealmadridtue2345vn" tvg-name="04. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. UEFA CL | Kairat vs Real Madrid (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174939.ts
-#EXTINF:-1 tvg-id="05turkishsuperligbesiktasvskocaelisportue0000vn" tvg-name="05. Turkish Super Lig | Besiktas vs Kocaelispor (Tue 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. Turkish Super Lig | Besiktas vs Kocaelispor (Tue 00:00 (VN))
+#EXTINF:-1 tvg-id="05uefaclatalantavsclubbruggetue2345vn" tvg-name="05. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174940.ts
-#EXTINF:-1 tvg-id="06ligaportugalaroucavportotue0205vn" tvg-name="06. Liga Portugal | Arouca v Porto (Tue 02:05 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. Liga Portugal | Arouca v Porto (Tue 02:05 (VN))
+#EXTINF:-1 tvg-id="06uefaclatalantavsclubbruggetue2345vn" tvg-name="06. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174941.ts
-#EXTINF:-1 tvg-id="07footballnoevent" tvg-name="07. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. Football | No Event
+#EXTINF:-1 tvg-id="07uefaclatalantavsclubbruggetue2345vn" tvg-name="07. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174951.ts
-#EXTINF:-1 tvg-id="08footballnoevent" tvg-name="08. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. Football | No Event
+#EXTINF:-1 tvg-id="08uefaclatalantavsclubbruggetue2345vn" tvg-name="08. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. UEFA CL | Atalanta vs Club Brugge (Tue 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174950.ts
-#EXTINF:-1 tvg-id="09footballnoevent" tvg-name="09. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events",09. Football | No Event
+#EXTINF:-1 tvg-id="09uefaclgoalsshowwed0200vn" tvg-name="09. UEFA CL | Goals Show (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events",09. UEFA CL | Goals Show (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174948.ts
-#EXTINF:-1 tvg-id="10footballnoevent" tvg-name="10. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events",10. Football | No Event
+#EXTINF:-1 tvg-id="10uefaclgoalsshowwed0200vn" tvg-name="10. UEFA CL | Goals Show (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events",10. UEFA CL | Goals Show (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174947.ts
-#EXTINF:-1 tvg-id="11footballnoevent" tvg-name="11. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. Football | No Event
+#EXTINF:-1 tvg-id="11uefaclchelseavsbenficawed0200vn" tvg-name="11. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174946.ts
-#EXTINF:-1 tvg-id="12footballnoevent" tvg-name="12. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. Football | No Event
+#EXTINF:-1 tvg-id="12uefaclchelseavsbenficawed0200vn" tvg-name="12. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174945.ts
-#EXTINF:-1 tvg-id="13footballnoevent" tvg-name="13. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. Football | No Event
+#EXTINF:-1 tvg-id="13uefaclchelseavsbenficawed0200vn" tvg-name="13. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174944.ts
-#EXTINF:-1 tvg-id="14footballnoevent" tvg-name="14. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. Football | No Event
+#EXTINF:-1 tvg-id="14uefaclchelseavsbenficawed0200vn" tvg-name="14. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. UEFA CL | Chelsea vs Benfica (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233895.ts
-#EXTINF:-1 tvg-id="15footballnoevent" tvg-name="15. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. Football | No Event
+#EXTINF:-1 tvg-id="15uefaclbodoglimtvstottenhamwed0200vn" tvg-name="15. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233896.ts
-#EXTINF:-1 tvg-id="16footballnoevent" tvg-name="16. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events",16. Football | No Event
+#EXTINF:-1 tvg-id="16uefaclbodoglimtvstottenhamwed0200vn" tvg-name="16. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events",16. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233897.ts
-#EXTINF:-1 tvg-id="17footballnoevent" tvg-name="17. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. Football | No Event
+#EXTINF:-1 tvg-id="17uefaclbodoglimtvstottenhamwed0200vn" tvg-name="17. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233898.ts
-#EXTINF:-1 tvg-id="18footballnoevent" tvg-name="18. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. Football | No Event
+#EXTINF:-1 tvg-id="18uefaclbodoglimtvstottenhamwed0200vn" tvg-name="18. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. UEFA CL | Bodo/Glimt vs Tottenham (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233899.ts
-#EXTINF:-1 tvg-id="19footballnoevent" tvg-name="19. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. Football | No Event
+#EXTINF:-1 tvg-id="19uefaclgalatasarayvsliverpoolwed0200vn" tvg-name="19. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233900.ts
-#EXTINF:-1 tvg-id="20footballnoevent" tvg-name="20. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. Football | No Event
+#EXTINF:-1 tvg-id="20uefaclgalatasarayvsliverpoolwed0200vn" tvg-name="20. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233901.ts
-#EXTINF:-1 tvg-id="21footballnoevent" tvg-name="21. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. Football | No Event
+#EXTINF:-1 tvg-id="21uefaclgalatasarayvsliverpoolwed0200vn" tvg-name="21. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233902.ts
-#EXTINF:-1 tvg-id="22footballnoevent" tvg-name="22. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. Football | No Event
+#EXTINF:-1 tvg-id="22uefaclgalatasarayvsliverpoolwed0200vn" tvg-name="22. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. UEFA CL | Galatasaray vs Liverpool (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233903.ts
-#EXTINF:-1 tvg-id="23footballnoevent" tvg-name="23. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball23.png" group-title="LIVE | Football Events",23. Football | No Event
+#EXTINF:-1 tvg-id="23uefaclatleticomadridvsfrankfurtwed0200vn" tvg-name="23. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball23.png" group-title="LIVE | Football Events",23. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233906.ts
-#EXTINF:-1 tvg-id="24footballnoevent" tvg-name="24. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball24.png" group-title="LIVE | Football Events",24. Football | No Event
+#EXTINF:-1 tvg-id="24uefaclatleticomadridvsfrankfurtwed0200vn" tvg-name="24. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball24.png" group-title="LIVE | Football Events",24. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233904.ts
-#EXTINF:-1 tvg-id="25footballnoevent" tvg-name="25. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball25.png" group-title="LIVE | Football Events",25. Football | No Event
+#EXTINF:-1 tvg-id="25uefaclatleticomadridvsfrankfurtwed0200vn" tvg-name="25. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball25.png" group-title="LIVE | Football Events",25. UEFA CL | Atletico Madrid vs Frankfurt (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233905.ts
-#EXTINF:-1 tvg-id="26footballnoevent" tvg-name="26. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball26.png" group-title="LIVE | Football Events",26. Football | No Event
+#EXTINF:-1 tvg-id="26uefaclmarseillevsajaxwed0200vn" tvg-name="26. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball26.png" group-title="LIVE | Football Events",26. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/255948.ts
-#EXTINF:-1 tvg-id="27footballnoevent" tvg-name="27. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events",27. Football | No Event
+#EXTINF:-1 tvg-id="27uefaclmarseillevsajaxwed0200vn" tvg-name="27. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events",27. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286956.ts
-#EXTINF:-1 tvg-id="28footballnoevent" tvg-name="28. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball28.png" group-title="LIVE | Football Events",28. Football | No Event
+#EXTINF:-1 tvg-id="28uefaclmarseillevsajaxwed0200vn" tvg-name="28. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball28.png" group-title="LIVE | Football Events",28. UEFA CL | Marseille vs Ajax (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286957.ts
-#EXTINF:-1 tvg-id="29footballnoevent" tvg-name="29. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball29.png" group-title="LIVE | Football Events",29. Football | No Event
+#EXTINF:-1 tvg-id="29uefaclpafosvsbayernmunichwed0200vn" tvg-name="29. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball29.png" group-title="LIVE | Football Events",29. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286958.ts
-#EXTINF:-1 tvg-id="30footballnoevent" tvg-name="30. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball30.png" group-title="LIVE | Football Events",30. Football | No Event
+#EXTINF:-1 tvg-id="30uefaclpafosvsbayernmunichwed0200vn" tvg-name="30. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball30.png" group-title="LIVE | Football Events",30. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/286959.ts
-#EXTINF:-1 tvg-id="31footballnoevent" tvg-name="31. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball31.png" group-title="LIVE | Football Events",31. Football | No Event
+#EXTINF:-1 tvg-id="31uefaclpafosvsbayernmunichwed0200vn" tvg-name="31. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball31.png" group-title="LIVE | Football Events",31. UEFA CL | PAFOS vs Bayern Munich (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697714.ts
-#EXTINF:-1 tvg-id="32footballnoevent" tvg-name="32. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball32.png" group-title="LIVE | Football Events",32. Football | No Event
+#EXTINF:-1 tvg-id="32uefaclintermilanvsslaviapraguewed0200vn" tvg-name="32. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball32.png" group-title="LIVE | Football Events",32. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697713.ts
-#EXTINF:-1 tvg-id="33footballnoevent" tvg-name="33. Football | No Event" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball33.png" group-title="LIVE | Football Events",33. Football | No Event
+#EXTINF:-1 tvg-id="33uefaclintermilanvsslaviapraguewed0200vn" tvg-name="33. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball33.png" group-title="LIVE | Football Events",33. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697712.ts
-#EXTINF:-1 tvg-id="34footballnoevent" tvg-name="34. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball34.png" group-title="LIVE | Football Events",34. Football | No Event
+#EXTINF:-1 tvg-id="34uefaclintermilanvsslaviapraguewed0200vn" tvg-name="34. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball34.png" group-title="LIVE | Football Events",34. UEFA CL | Inter Milan vs Slavia Prague (Wed 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697711.ts
-#EXTINF:-1 tvg-id="35footballnoevent" tvg-name="35. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball35.png" group-title="LIVE | Football Events",35. Football | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697710.ts
 #EXTINF:-1 tvg-id="hubpremier1fhd" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="LIVE | Hub Premier (EPL)",Hub Premier 1 FHD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/952022.ts
 #EXTINF:-1 tvg-id="hubpremier1hd" tvg-name="Hub Premier 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="LIVE | Hub Premier (EPL)",Hub Premier 1 HD
@@ -297,13 +295,13 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/837862.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837859.ts
 #EXTINF:-1 tvg-id="realmadridcfmatchtimeonly" tvg-name="REAL MADRID CF (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Madrid.png" group-title="LIVE | La Liga Hub",REAL MADRID CF (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837858.ts
-#EXTINF:-1 tvg-id="realoviedotue0200vn" tvg-name="REAL OVIEDO (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Real-Oviedo.png" group-title="LIVE | La Liga Hub",REAL OVIEDO (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="realoviedowed0100vn" tvg-name="REAL OVIEDO (Wed 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Real-Oviedo.png" group-title="LIVE | La Liga Hub",REAL OVIEDO (Wed 01:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837853.ts
 #EXTINF:-1 tvg-id="realsociedadmatchtimeonly" tvg-name="REAL SOCIEDAD (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Sociedad.png" group-title="LIVE | La Liga Hub",REAL SOCIEDAD (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837856.ts
 #EXTINF:-1 tvg-id="sevillafcmatchtimeonly" tvg-name="SEVILLA FC (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sevilla.png" group-title="LIVE | La Liga Hub",SEVILLA FC (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837855.ts
-#EXTINF:-1 tvg-id="valenciacftue0200vn" tvg-name="VALENCIA CF (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Valencia-CF.png" group-title="LIVE | La Liga Hub",VALENCIA CF (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="valenciacfwed0100vn" tvg-name="VALENCIA CF (Wed 01:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Valencia-CF.png" group-title="LIVE | La Liga Hub",VALENCIA CF (Wed 01:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837854.ts
 #EXTINF:-1 tvg-id="villarrealcfmatchtimeonly" tvg-name="VILLARREAL CF (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Villarreal-CF.png" group-title="LIVE | La Liga Hub",VILLARREAL CF (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837852.ts
@@ -423,14 +421,18 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/233893.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233894.ts
 #EXTINF:-1 tvg-id="liveevent34" tvg-name="LIVE EVENT 34 -" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent34.png" group-title="LIVE | PPV Events",LIVE EVENT 34 -
 http://tv.8dott.xyz:80/live/samuel/samuel123456/287109.ts
-#EXTINF:-1 tvg-id="01atptourjapanopenmon1400vn" tvg-name="01. ATP Tour | Japan Open (Mon 14:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events",01. ATP Tour | Japan Open (Mon 14:00 (VN))
+#EXTINF:-1 tvg-id="01atptourjapanopentue1600vn" tvg-name="01. ATP Tour | Japan Open (Tue 16:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events",01. ATP Tour | Japan Open (Tue 16:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
-#EXTINF:-1 tvg-id="02atptourjapanopenmon1400vn" tvg-name="02. ATP Tour |  Japan Open (Mon 14:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events",02. ATP Tour |  Japan Open (Mon 14:00 (VN))
+#EXTINF:-1 tvg-id="02atptourjapanopentue1600vn" tvg-name="02. ATP Tour |  Japan Open (Tue 16:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events",02. ATP Tour |  Japan Open (Tue 16:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356437.ts
-#EXTINF:-1 tvg-id="03atptourchinaopenmon1200vn" tvg-name="03. ATP Tour | China Open (Mon 12:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events",03. ATP Tour | China Open (Mon 12:00 (VN))
+#EXTINF:-1 tvg-id="03atptourchinaopentue1300vn" tvg-name="03. ATP Tour | China Open (Tue 13:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events",03. ATP Tour | China Open (Tue 13:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356438.ts
-#EXTINF:-1 tvg-id="04atptourchinaopenmon1200vn" tvg-name="04. ATP Tour | China Open (Mon 12:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events",04. ATP Tour | China Open (Mon 12:00 (VN))
+#EXTINF:-1 tvg-id="04atptourchinaopentue1300vn" tvg-name="04. ATP Tour | China Open (Tue 13:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events",04. ATP Tour | China Open (Tue 13:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356439.ts
+#EXTINF:-1 tvg-id="05cyclingcroracetue1900vn" tvg-name="05. Cycling | Cro Race (Tue 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events",05. Cycling | Cro Race (Tue 19:00 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356440.ts
+#EXTINF:-1 tvg-id="06cyclingcroracetue1900vn" tvg-name="06. Cycling | Cro Race (Tue 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports6.png" group-title="LIVE | Sports Events",06. Cycling | Cro Race (Tue 19:00 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356441.ts
 #EXTINF:-1 tvg-id="08cyclingtouroflangkawimon1245vn" tvg-name="08. Cycling | Tour of Langkawi (Mon 12:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events",08. Cycling | Tour of Langkawi (Mon 12:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356443.ts
 #EXTINF:-1 tvg-id="09cyclingtouroflangkawimon1245vn" tvg-name="09. Cycling | Tour of Langkawi (Mon 12:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events",09. Cycling | Tour of Langkawi (Mon 12:45 (VN))
