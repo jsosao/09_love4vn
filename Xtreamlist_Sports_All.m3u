@@ -109,7 +109,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/174943.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174942.ts
 #EXTINF:-1 tvg-id="epltntsportsultimate4khdr" tvg-name="EPL | TNT Sports Ultimate 4K HDR" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" group-title="LIVE | EPL Hub",EPL | TNT Sports Ultimate 4K HDR
 http://tv.8dott.xyz:80/live/samuel/samuel123456/417163.ts
-#EXTINF:-1 tvg-id="evertonfctue0200vn" tvg-name="EVERTON F.C (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Everton.png" group-title="LIVE | EPL Hub",EVERTON F.C (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="evertonfcmatchtimeonly" tvg-name="EVERTON F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Everton.png" group-title="LIVE | EPL Hub",EVERTON F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256495.ts
 #EXTINF:-1 tvg-id="fulhamfcmatchtimeonly" tvg-name="FULHAM F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256508.ts
@@ -129,7 +129,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256511.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256509.ts
 #EXTINF:-1 tvg-id="tottenhamhotspurfcmatchtimeonly" tvg-name="TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Tottenham-FC.png" group-title="LIVE | EPL Hub",TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256510.ts
-#EXTINF:-1 tvg-id="westhamunitedfctue0200vn" tvg-name="WEST HAM UNITED F.C (Tue 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/West-Ham.png" group-title="LIVE | EPL Hub",WEST HAM UNITED F.C (Tue 02:00 (VN))
+#EXTINF:-1 tvg-id="westhamunitedfcmatchtimeonly" tvg-name="WEST HAM UNITED F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/West-Ham.png" group-title="LIVE | EPL Hub",WEST HAM UNITED F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256512.ts
 #EXTINF:-1 tvg-id="wolverhamptonwanderersfcmatchtimeonly" tvg-name="WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Wolves.png" group-title="LIVE | EPL Hub",WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256513.ts
@@ -433,9 +433,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/356439.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356440.ts
 #EXTINF:-1 tvg-id="06cyclingcroracetue1900vn" tvg-name="06. Cycling | Cro Race (Tue 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports6.png" group-title="LIVE | Sports Events",06. Cycling | Cro Race (Tue 19:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356441.ts
-#EXTINF:-1 tvg-id="08cyclingtouroflangkawimon1245vn" tvg-name="08. Cycling | Tour of Langkawi (Mon 12:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events",08. Cycling | Tour of Langkawi (Mon 12:45 (VN))
+#EXTINF:-1 tvg-id="07cyclingtouroflangkawitue1350vn" tvg-name="07. Cycling | Tour of Langkawi (Tue 13:50 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports7.png" group-title="LIVE | Sports Events",07. Cycling | Tour of Langkawi (Tue 13:50 (VN))
+http://tv.8dott.xyz:80/live/samuel/samuel123456/356442.ts
+#EXTINF:-1 tvg-id="08cyclingtouroflangkawitue1350vn" tvg-name="08. Cycling | Tour of Langkawi (Tue 13:50 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events",08. Cycling | Tour of Langkawi (Tue 13:50 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356443.ts
-#EXTINF:-1 tvg-id="09cyclingtouroflangkawimon1245vn" tvg-name="09. Cycling | Tour of Langkawi (Mon 12:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events",09. Cycling | Tour of Langkawi (Mon 12:45 (VN))
+#EXTINF:-1 tvg-id="09premierpadelrotterdamtue1400vn" tvg-name="09. Premier Padel | Rotterdam (Tue 14:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events",09. Premier Padel | Rotterdam (Tue 14:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356444.ts
 #EXTINF:-1 tvg-id="11sportsnoevent" tvg-name="11. Sports | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events",11. Sports | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/356446.ts
@@ -3387,11 +3389,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634849.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634850.ts
 #EXTINF:-1 tvg-id="uspafcchampionsleague9" tvg-name="US (P+) AFC Champions League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) AFC Champions League 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634851.ts
+#EXTINF:-1 tvg-id="uspitalyseriea1" tvg-name="US (P+) Italy SerieA 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
 #EXTINF:-1 tvg-id="uspitalyseriea10" tvg-name="US (P+) Italy SerieA 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 10
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634842.ts
-#EXTINF:-1 tvg-id="uspitalyseriea1parmavstorino2992320vn" tvg-name="US (P+) Italy SerieA 1: Parma vs Torino | 29/9 23:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 1: Parma vs Torino | 29/9 23:20 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/634833.ts
-#EXTINF:-1 tvg-id="uspitalyseriea2genoavslazio3090135vn" tvg-name="US (P+) Italy SerieA 2: Genoa vs Lazio | 30/9 01:35 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2: Genoa vs Lazio | 30/9 01:35 (VN)
+#EXTINF:-1 tvg-id="uspitalyseriea2" tvg-name="US (P+) Italy SerieA 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 2
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634834.ts
 #EXTINF:-1 tvg-id="uspitalyseriea3" tvg-name="US (P+) Italy SerieA 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 3
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634835.ts
@@ -3407,9 +3409,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/634839.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634840.ts
 #EXTINF:-1 tvg-id="uspitalyseriea9" tvg-name="US (P+) Italy SerieA 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) Italy SerieA 9
 http://tv.8dott.xyz:80/live/samuel/samuel123456/634841.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague1" tvg-name="US (P+) UEFA Champions League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1
-http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague10" tvg-name="US (P+) UEFA Champions League 10" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 10
+#EXTINF:-1 tvg-id="uspuefachampionsleague10thegolazoshow1100100vn" tvg-name="US (P+) UEFA Champions League 10: The Golazo Show | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 10: The Golazo Show | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838279.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague11" tvg-name="US (P+) UEFA Champions League 11" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 11
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838278.ts
@@ -3421,21 +3421,23 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/838276.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838275.ts
 #EXTINF:-1 tvg-id="uspuefachampionsleague15" tvg-name="US (P+) UEFA Champions League 15" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 15
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838274.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague2" tvg-name="US (P+) UEFA Champions League 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2
+#EXTINF:-1 tvg-id="uspuefachampionsleague1kairatalmatyvsrealmadrid3092300vn" tvg-name="US (P+) UEFA Champions League 1: Kairat Almaty vs Real Madrid | 30/9 23:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 1: Kairat Almaty vs Real Madrid | 30/9 23:00 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/838288.ts
+#EXTINF:-1 tvg-id="uspuefachampionsleague2atalantavsclubbrugge3092300vn" tvg-name="US (P+) UEFA Champions League 2: Atalanta vs Club Brugge | 30/9 23:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 2: Atalanta vs Club Brugge | 30/9 23:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838287.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague3" tvg-name="US (P+) UEFA Champions League 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3
+#EXTINF:-1 tvg-id="uspuefachampionsleague3chelseavsbenfica1100100vn" tvg-name="US (P+) UEFA Champions League 3: Chelsea vs Benfica | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 3: Chelsea vs Benfica | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838286.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague4" tvg-name="US (P+) UEFA Champions League 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4
+#EXTINF:-1 tvg-id="uspuefachampionsleague4intervsslaviapraha1100100vn" tvg-name="US (P+) UEFA Champions League 4: Inter vs Slavia Praha | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 4: Inter vs Slavia Praha | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838285.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague5" tvg-name="US (P+) UEFA Champions League 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5
+#EXTINF:-1 tvg-id="uspuefachampionsleague5galatasarayvsliverpool1100100vn" tvg-name="US (P+) UEFA Champions League 5: Galatasaray vs Liverpool | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 5: Galatasaray vs Liverpool | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838284.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague6" tvg-name="US (P+) UEFA Champions League 6" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 6
+#EXTINF:-1 tvg-id="uspuefachampionsleague6pafosvsbayern1100100vn" tvg-name="US (P+) UEFA Champions League 6: Pafos vs Bayern | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 6: Pafos vs Bayern | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838283.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague7" tvg-name="US (P+) UEFA Champions League 7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 7
+#EXTINF:-1 tvg-id="uspuefachampionsleague7atlãticomadridvseintrachtfrankfurt1100100vn" tvg-name="US (P+) UEFA Champions League 7: AtlÃ©tico Madrid vs Eintracht Frankfurt | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 7: AtlÃ©tico Madrid vs Eintracht Frankfurt | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838282.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague8" tvg-name="US (P+) UEFA Champions League 8" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 8
+#EXTINF:-1 tvg-id="uspuefachampionsleague8bodãglimtvstottenham1100100vn" tvg-name="US (P+) UEFA Champions League 8: BodÃ¸/Glimt vs Tottenham | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 8: BodÃ¸/Glimt vs Tottenham | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838281.ts
-#EXTINF:-1 tvg-id="uspuefachampionsleague9" tvg-name="US (P+) UEFA Champions League 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 9
+#EXTINF:-1 tvg-id="uspuefachampionsleague9marseillevsajax1100100vn" tvg-name="US (P+) UEFA Champions League 9: Marseille vs Ajax | 1/10 01:00 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Champions League 9: Marseille vs Ajax | 1/10 01:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838280.ts
 #EXTINF:-1 tvg-id="uspuefaeuropaconferenceleague1" tvg-name="US (P+) UEFA Europa Conference League 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/ParamountPlus.png" group-title="SPORTS | Paramount+",US (P+) UEFA Europa Conference League 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/838258.ts
