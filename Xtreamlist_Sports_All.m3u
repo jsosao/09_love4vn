@@ -83,9 +83,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/713822.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713928.ts
 #EXTINF:-1 tvg-id="42epl10brentfordvsmanchestercitysun2230vn" tvg-name="42. EPL 10 | Brentford vs Manchester City (Sun 22:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events",42. EPL 10 | Brentford vs Manchester City (Sun 22:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/713929.ts
-#EXTINF:-1 tvg-id="afcbournemouthsat0200vn" tvg-name="A.F.C BOURNEMOUTH (Sat 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Bournemouth.png" group-title="LIVE | EPL Hub",A.F.C BOURNEMOUTH (Sat 02:00 (VN))
+#EXTINF:-1 tvg-id="afcbournemouthmatchtimeonly" tvg-name="A.F.C BOURNEMOUTH (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Bournemouth.png" group-title="LIVE | EPL Hub",A.F.C BOURNEMOUTH (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256492.ts
-#EXTINF:-1 tvg-id="arsenalfcmatchtimeonly" tvg-name="ARSENAL F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Arsenal.png" group-title="LIVE | EPL Hub",ARSENAL F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="arsenalfcsat2100vn" tvg-name="ARSENAL F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Arsenal.png" group-title="LIVE | EPL Hub",ARSENAL F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256488.ts
 #EXTINF:-1 tvg-id="astonvillafcmatchtimeonly" tvg-name="ASTON VILLA F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Aston-Villa.png" group-title="LIVE | EPL Hub",ASTON VILLA F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256489.ts
@@ -95,7 +95,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256490.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256491.ts
 #EXTINF:-1 tvg-id="burnleyfcmatchtimeonly" tvg-name="BURNLEY F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Burnley.png" group-title="LIVE | EPL Hub",BURNLEY F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256496.ts
-#EXTINF:-1 tvg-id="chelseafcmatchtimeonly" tvg-name="CHELSEA F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Chelsea.png" group-title="LIVE | EPL Hub",CHELSEA F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="chelseafcsat2330vn" tvg-name="CHELSEA F.C (Sat 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Chelsea.png" group-title="LIVE | EPL Hub",CHELSEA F.C (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256493.ts
 #EXTINF:-1 tvg-id="crystalpalacefcmatchtimeonly" tvg-name="CRYSTAL PALACE F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Crystal-Palace.png" group-title="LIVE | EPL Hub",CRYSTAL PALACE F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256494.ts
@@ -111,15 +111,15 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/174942.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/417163.ts
 #EXTINF:-1 tvg-id="evertonfcmatchtimeonly" tvg-name="EVERTON F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Everton.png" group-title="LIVE | EPL Hub",EVERTON F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256495.ts
-#EXTINF:-1 tvg-id="fulhamfcsat0200vn" tvg-name="FULHAM F.C (Sat 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (Sat 02:00 (VN))
+#EXTINF:-1 tvg-id="fulhamfcmatchtimeonly" tvg-name="FULHAM F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Fulham.png" group-title="LIVE | EPL Hub",FULHAM F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256508.ts
-#EXTINF:-1 tvg-id="leedsunitedfcmatchtimeonly" tvg-name="LEEDS UNITED F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Leeds-United-FC.png" group-title="LIVE | EPL Hub",LEEDS UNITED F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="leedsunitedfcsat1830vn" tvg-name="LEEDS UNITED F.C (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Leeds-United-FC.png" group-title="LIVE | EPL Hub",LEEDS UNITED F.C (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256497.ts
-#EXTINF:-1 tvg-id="liverpoolfcmatchtimeonly" tvg-name="LIVERPOOL F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/LFC.png" group-title="LIVE | EPL Hub",LIVERPOOL F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="liverpoolfcsat2330vn" tvg-name="LIVERPOOL F.C (Sat 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/07/LFC.png" group-title="LIVE | EPL Hub",LIVERPOOL F.C (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256498.ts
 #EXTINF:-1 tvg-id="manchestercityfcmatchtimeonly" tvg-name="MANCHESTER CITY F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Manchester-City.png" group-title="LIVE | EPL Hub",MANCHESTER CITY F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256499.ts
-#EXTINF:-1 tvg-id="manchesterunitedfcmatchtimeonly" tvg-name="MANCHESTER UNITED F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Manchester-United.png" group-title="LIVE | EPL Hub",MANCHESTER UNITED F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="manchesterunitedfcsat2100vn" tvg-name="MANCHESTER UNITED F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Manchester-United.png" group-title="LIVE | EPL Hub",MANCHESTER UNITED F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256500.ts
 #EXTINF:-1 tvg-id="newcastleunitedfcmatchtimeonly" tvg-name="NEWCASTLE UNITED F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Newcastle-United.png" group-title="LIVE | EPL Hub",NEWCASTLE UNITED F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256507.ts
@@ -127,9 +127,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256507.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256511.ts
 #EXTINF:-1 tvg-id="sunderlandafcmatchtimeonly" tvg-name="SUNDERLAND A.F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Sunderland-AFC.png" group-title="LIVE | EPL Hub",SUNDERLAND A.F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256509.ts
-#EXTINF:-1 tvg-id="tottenhamhotspurfcmatchtimeonly" tvg-name="TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Tottenham-FC.png" group-title="LIVE | EPL Hub",TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="tottenhamhotspurfcsat1830vn" tvg-name="TOTTENHAM HOTSPUR F.C (Sat 18:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Tottenham-FC.png" group-title="LIVE | EPL Hub",TOTTENHAM HOTSPUR F.C (Sat 18:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256510.ts
-#EXTINF:-1 tvg-id="westhamunitedfcmatchtimeonly" tvg-name="WEST HAM UNITED F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/West-Ham.png" group-title="LIVE | EPL Hub",WEST HAM UNITED F.C (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="westhamunitedfcsat2100vn" tvg-name="WEST HAM UNITED F.C (Sat 21:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/West-Ham.png" group-title="LIVE | EPL Hub",WEST HAM UNITED F.C (Sat 21:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256512.ts
 #EXTINF:-1 tvg-id="wolverhamptonwanderersfcmatchtimeonly" tvg-name="WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Wolves.png" group-title="LIVE | EPL Hub",WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256513.ts
