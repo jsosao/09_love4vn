@@ -247,7 +247,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/426727.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/952030.ts
 #EXTINF:-1 tvg-id="hubpremier9hd" tvg-name="Hub Premier 9 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" group-title="LIVE | Hub Premier (EPL)",Hub Premier 9 HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/426726.ts
-#EXTINF:-1 tvg-id="athleticclubmatchtimeonly" tvg-name="ATHLETIC CLUB (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Athletic-Bilbao.png" group-title="LIVE | La Liga Hub",ATHLETIC CLUB (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="athleticclubsat2330vn" tvg-name="ATHLETIC CLUB (Sat 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Athletic-Bilbao.png" group-title="LIVE | La Liga Hub",ATHLETIC CLUB (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837872.ts
 #EXTINF:-1 tvg-id="atleticodemadridmatchtimeonly" tvg-name="ATLETICO DE MADRID (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Atletico-Madrid.png" group-title="LIVE | La Liga Hub",ATLETICO DE MADRID (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837871.ts
@@ -289,11 +289,11 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/837860.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837869.ts
 #EXTINF:-1 tvg-id="rcdespanyolmatchtimeonly" tvg-name="RCD ESPANYOL (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Espanyol.png" group-title="LIVE | La Liga Hub",RCD ESPANYOL (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837868.ts
-#EXTINF:-1 tvg-id="rcdmallorcamatchtimeonly" tvg-name="RCD MALLORCA (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Mallorca.png" group-title="LIVE | La Liga Hub",RCD MALLORCA (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="rcdmallorcasat2330vn" tvg-name="RCD MALLORCA (Sat 23:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/RCD-Mallorca.png" group-title="LIVE | La Liga Hub",RCD MALLORCA (Sat 23:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837862.ts
 #EXTINF:-1 tvg-id="realbetismatchtimeonly" tvg-name="REAL BETIS (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Betis.png" group-title="LIVE | La Liga Hub",REAL BETIS (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837859.ts
-#EXTINF:-1 tvg-id="realmadridcfmatchtimeonly" tvg-name="REAL MADRID CF (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Madrid.png" group-title="LIVE | La Liga Hub",REAL MADRID CF (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="realmadridcfsun0200vn" tvg-name="REAL MADRID CF (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Real-Madrid.png" group-title="LIVE | La Liga Hub",REAL MADRID CF (Sun 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837858.ts
 #EXTINF:-1 tvg-id="realoviedosat1900vn" tvg-name="REAL OVIEDO (Sat 19:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/06/Real-Oviedo.png" group-title="LIVE | La Liga Hub",REAL OVIEDO (Sat 19:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837853.ts
@@ -303,7 +303,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/837856.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837855.ts
 #EXTINF:-1 tvg-id="valenciacfsat2115vn" tvg-name="VALENCIA CF (Sat 21:15 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Valencia-CF.png" group-title="LIVE | La Liga Hub",VALENCIA CF (Sat 21:15 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837854.ts
-#EXTINF:-1 tvg-id="villarrealcfmatchtimeonly" tvg-name="VILLARREAL CF (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Villarreal-CF.png" group-title="LIVE | La Liga Hub",VILLARREAL CF (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="villarrealcfsun0200vn" tvg-name="VILLARREAL CF (Sun 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Villarreal-CF.png" group-title="LIVE | La Liga Hub",VILLARREAL CF (Sun 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/837852.ts
 #EXTINF:-1 tvg-id="thmonomaxpl01bournemouthvsfulhamsat0200vn" tvg-name="TH | MonoMax PL 01: Bournemouth vs Fulham (Sat 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/MonoMax.png" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 01: Bournemouth vs Fulham (Sat 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697154.ts
