@@ -349,9 +349,9 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/239012.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239011.ts
 #EXTINF:-1 tvg-id="fitetv9hddtrillertvjbpromotionsanewdawnryanvsdonovanfri10oct1800vnet" tvg-name="Fite TV 9 HD (D): TrillerTV-JB Promotions A New Dawn: Ryan vs Donovan - Fri,10 Oct 18:00 (VN) ET" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite9.png" group-title="LIVE | PPV Events",Fite TV 9 HD (D): TrillerTV-JB Promotions A New Dawn: Ryan vs Donovan - Fri,10 Oct 18:00 (VN) ET
 http://tv.8dott.xyz:80/live/samuel/samuel123456/239033.ts
-#EXTINF:-1 tvg-id="liveevent01noevent" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent011430vnbrianolsonworldfinals" tvg-name="LIVE EVENT 01 -  14:30 (VN) Brian Olson World Finals" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events",LIVE EVENT 01 -  14:30 (VN) Brian Olson World Finals
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185089.ts
-#EXTINF:-1 tvg-id="liveevent02noevent" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="liveevent021810vnontmilkbowlthunderroad" tvg-name="LIVE EVENT 02 - 18:10 (VN)ont Milk Bowl Thunder Road" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events",LIVE EVENT 02 - 18:10 (VN)ont Milk Bowl Thunder Road
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185090.ts
 #EXTINF:-1 tvg-id="liveevent03noevent" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events",LIVE EVENT 03 - NO EVENT
 http://tv.8dott.xyz:80/live/samuel/samuel123456/185091.ts
@@ -3299,24 +3299,28 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/842083.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/842084.ts
 #EXTINF:-1 tvg-id="nzskysportsselect" tvg-name="NZ | Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sports",NZ | Sky Sports Select
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697715.ts
-#EXTINF:-1 tvg-id="paramount01englishfootballleaguehullcityvssheffieldunitedoct41320vn" tvg-name="Paramount+ 01 :English Football League: Hull City vs Sheffield United @ Oct 4 13:20 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :English Football League: Hull City vs Sheffield United @ Oct 4 13:20 (VN)
+#EXTINF:-1 tvg-id="paramount01englishfootballleagueipswichtownvsnorwichcityoct51250vn" tvg-name="Paramount+ 01 :English Football League: Ipswich Town vs Norwich City @ Oct 5 12:50 (VN)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 01 :English Football League: Ipswich Town vs Norwich City @ Oct 5 12:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941606.ts
-#EXTINF:-1 tvg-id="paramount03seriealaziovstorinooct41450vn" tvg-name="Paramount+ 03 :Serie A: Lazio vs Torino @ Oct 4 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :Serie A: Lazio vs Torino @ Oct 4 14:50 (VN)
+#EXTINF:-1 tvg-id="paramount02serieafiorentinavsromaoct51450vn" tvg-name="Paramount+ 02 :Serie A: Fiorentina vs Roma @ Oct 5 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 02 :Serie A: Fiorentina vs Roma @ Oct 5 14:50 (VN)
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941605.ts
+#EXTINF:-1 tvg-id="paramount03serieabolognavspisaoct51450vn" tvg-name="Paramount+ 03 :Serie A: Bologna vs Pisa @ Oct 5 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 03 :Serie A: Bologna vs Pisa @ Oct 5 14:50 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941604.ts
-#EXTINF:-1 tvg-id="paramount04serieaparmavslecceoct41450vn" tvg-name="Paramount+ 04 :Serie A: Parma vs Lecce @ Oct 4 14:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 04 :Serie A: Parma vs Lecce @ Oct 4 14:50 (VN)
-http://tv.8dott.xyz:80/live/samuel/samuel123456/941603.ts
-#EXTINF:-1 tvg-id="paramount05englishfootballleagueswanseacityvsleicestercityoct41530vn" tvg-name="Paramount+ 05 :English Football League: Swansea City vs Leicester City @ Oct 4 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :English Football League: Swansea City vs Leicester City @ Oct 4 15:30 (VN)
+#EXTINF:-1 tvg-id="paramount05serieanapolivsgenoaoct51700vn" tvg-name="Paramount+ 05 :Serie A: Napoli vs Genoa @ Oct 5 17:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 05 :Serie A: Napoli vs Genoa @ Oct 5 17:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941602.ts
-#EXTINF:-1 tvg-id="paramount06englishfootballleagueportsmouthvsmiddlesbroughoct41530vn" tvg-name="Paramount+ 06 :English Football League: Portsmouth vs Middlesbrough @ Oct 4 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :English Football League: Portsmouth vs Middlesbrough @ Oct 4 15:30 (VN)
+#EXTINF:-1 tvg-id="paramount06serieajuventusvsmilanoct52000vn" tvg-name="Paramount+ 06 :Serie A: Juventus vs Milan @ Oct 5 20:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 06 :Serie A: Juventus vs Milan @ Oct 5 20:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941601.ts
-#EXTINF:-1 tvg-id="paramount07englishfootballleaguewatfordvsoxfordunitedoct41530vn" tvg-name="Paramount+ 07 :English Football League: Watford vs Oxford United @ Oct 4 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :English Football League: Watford vs Oxford United @ Oct 4 15:30 (VN)
+#EXTINF:-1 tvg-id="paramount07nationalwomenssoccerleaguegothamfcvsseattlereignfcoct52200vn" tvg-name="Paramount+ 07 :National Women's Soccer League: Gotham FC vs Seattle Reign FC @ Oct 5 22:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 07 :National Women's Soccer League: Gotham FC vs Seattle Reign FC @ Oct 5 22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941600.ts
-#EXTINF:-1 tvg-id="paramount08englishfootballleaguederbycountyvssouthamptonoct41530vn" tvg-name="Paramount+ 08 :English Football League: Derby County vs Southampton @ Oct 4 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :English Football League: Derby County vs Southampton @ Oct 4 15:30 (VN)
+#EXTINF:-1 tvg-id="paramount08nationalwomenssoccerleaguechicagostarsfcvsutahroyalsfcoct52200vn" tvg-name="Paramount+ 08 :National Women's Soccer League: Chicago Stars FC vs Utah Royals FC @ Oct 5 22:00 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 08 :National Women's Soccer League: Chicago Stars FC vs Utah Royals FC @ Oct 5 22:00 (VN)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941599.ts
-#EXTINF:-1 tvg-id="paramount09englishfootballleaguestevenagevslutontownoct41530vn" tvg-name="Paramount+ 09 :English Football League: Stevenage vs Luton Town @ Oct 4 15:30 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :English Football League: Stevenage vs Luton Town @ Oct 4 15:30 (VN)
+#EXTINF:-1 tvg-id="paramount09" tvg-name="Paramount+ 09 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 09 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941598.ts
-#EXTINF:-1 tvg-id="paramount10serieaintervscremoneseoct41750vn" tvg-name="Paramount+ 10 :Serie A: Inter vs Cremonese @ Oct 4 17:50 (VN)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 10 :Serie A: Inter vs Cremonese @ Oct 4 17:50 (VN)
+#EXTINF:-1 tvg-id="paramount10" tvg-name="Paramount+ 10 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 10 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941597.ts
+#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941596.ts
+#EXTINF:-1 tvg-id="paramount11" tvg-name="Paramount+ 11 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 11 :
+http://tv.8dott.xyz:80/live/samuel/samuel123456/941607.ts
 #EXTINF:-1 tvg-id="paramount13" tvg-name="Paramount+ 13 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 13 :
 http://tv.8dott.xyz:80/live/samuel/samuel123456/941595.ts
 #EXTINF:-1 tvg-id="paramount14" tvg-name="Paramount+ 14 :" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2025/08/Paramount-Plus.png" group-title="SPORTS | Paramount+",Paramount+ 14 :
