@@ -133,49 +133,47 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/256510.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256512.ts
 #EXTINF:-1 tvg-id="wolverhamptonwanderersfcmatchtimeonly" tvg-name="WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/03/Wolves.png" group-title="LIVE | EPL Hub",WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://tv.8dott.xyz:80/live/samuel/samuel123456/256513.ts
-#EXTINF:-1 tvg-id="01uefawcljuventusvsbenficatue2345vn" tvg-name="01. UEFA WCL | Juventus vs Benfica (Tue 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. UEFA WCL | Juventus vs Benfica (Tue 23:45 (VN))
+#EXTINF:-1 tvg-id="01uefawclrealmadridwvsasromawwed2345vn" tvg-name="01. UEFA WCL | Real Madrid W vs AS Roma W (Wed 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events",01. UEFA WCL | Real Madrid W vs AS Roma W (Wed 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174949.ts
-#EXTINF:-1 tvg-id="02uefawclarsenalvsollyonneswed0200vn" tvg-name="02. UEFA WCL | Arsenal vs OL Lyonnes (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. UEFA WCL | Arsenal vs OL Lyonnes (Wed 02:00 (VN))
+#EXTINF:-1 tvg-id="02uefawcltwentewvschelseawwed2345vn" tvg-name="02. UEFA WCL | Twente W vs Chelsea W (Wed 23:45 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events",02. UEFA WCL | Twente W vs Chelsea W (Wed 23:45 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174952.ts
-#EXTINF:-1 tvg-id="03uefawclbarcelonavsbayernmunichwed0200vn" tvg-name="03. UEFA WCL | Barcelona vs Bayern Munich (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. UEFA WCL | Barcelona vs Bayern Munich (Wed 02:00 (VN))
+#EXTINF:-1 tvg-id="03uefawclmanchesterunitedwvsvalerengawthu0200vn" tvg-name="03. UEFA WCL | Manchester United W vs Valerenga W (Thu 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events",03. UEFA WCL | Manchester United W vs Valerenga W (Thu 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174938.ts
-#EXTINF:-1 tvg-id="04uefawclparisfcvsohleuvenwed0200vn" tvg-name="04. UEFA WCL | Paris FC vs Oh Leuven (Wed 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. UEFA WCL | Paris FC vs Oh Leuven (Wed 02:00 (VN))
+#EXTINF:-1 tvg-id="04uefawclstpoltenwvsatleticomadridwthu0200vn" tvg-name="04. UEFA WCL | St Polten W vs Atletico Madrid W (Thu 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events",04. UEFA WCL | St Polten W vs Atletico Madrid W (Thu 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174939.ts
-#EXTINF:-1 tvg-id="05u20worldcupukrainevsspainwed0230vn" tvg-name="05. U20 World Cup | Ukraine vs Spain (Wed 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. U20 World Cup | Ukraine vs Spain (Wed 02:30 (VN))
+#EXTINF:-1 tvg-id="05uefawclwolfsburgwvspsgwthu0200vn" tvg-name="05. UEFA WCL | Wolfsburg W vs PSG W (Thu 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events",05. UEFA WCL | Wolfsburg W vs PSG W (Thu 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174940.ts
-#EXTINF:-1 tvg-id="06u20worldcupchilevsmexicowed0600vn" tvg-name="06. U20 World Cup | Chile vs Mexico (Wed 06:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. U20 World Cup | Chile vs Mexico (Wed 06:00 (VN))
+#EXTINF:-1 tvg-id="06fifaqualifiereswatinivsangolawed2000vn" tvg-name="06. FIFA Qualifier | Eswatini vs Angola (Wed 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events",06. FIFA Qualifier | Eswatini vs Angola (Wed 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174941.ts
-#EXTINF:-1 tvg-id="07footballnoevent" tvg-name="07. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. Football | No Event
+#EXTINF:-1 tvg-id="07fifainternationalgibraltarvsnewcaledoniathu0000vn" tvg-name="07. FIFA International | Gibraltar vs New Caledonia (Thu 00:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events",07. FIFA International | Gibraltar vs New Caledonia (Thu 00:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174951.ts
-#EXTINF:-1 tvg-id="08footballnoevent" tvg-name="08. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. Football | No Event
+#EXTINF:-1 tvg-id="08fifaqualifierlibyavscapeverdewed2000vn" tvg-name="08. FIFA Qualifier | Libya vs Cape Verde (Wed 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events",08. FIFA Qualifier | Libya vs Cape Verde (Wed 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174950.ts
-#EXTINF:-1 tvg-id="09footballnoevent" tvg-name="09. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events",09. Football | No Event
+#EXTINF:-1 tvg-id="09fifaqualifiermauritiusvscameroonwed2000vn" tvg-name="09. FIFA Qualifier | Mauritius vs Cameroon (Wed 20:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events",09. FIFA Qualifier | Mauritius vs Cameroon (Wed 20:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174948.ts
-#EXTINF:-1 tvg-id="10footballnoevent" tvg-name="10. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events",10. Football | No Event
+#EXTINF:-1 tvg-id="10fifaqualifieromanvsqatarwed2200vn" tvg-name="10. FIFA Qualifier | Oman vs Qatar (Wed 22:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events",10. FIFA Qualifier | Oman vs Qatar (Wed 22:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174947.ts
-#EXTINF:-1 tvg-id="11footballnoevent" tvg-name="11. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. Football | No Event
+#EXTINF:-1 tvg-id="11fifaqualifiercentralafricanrepublicvsghanawed2300vn" tvg-name="11. FIFA Qualifier | Central African Republic vs Ghana (Wed 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events",11. FIFA Qualifier | Central African Republic vs Ghana (Wed 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174946.ts
-#EXTINF:-1 tvg-id="12footballnoevent" tvg-name="12. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. Football | No Event
+#EXTINF:-1 tvg-id="12fifaqualifierchadvsmaliwed2300vn" tvg-name="12. FIFA Qualifier | Chad vs Mali (Wed 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events",12. FIFA Qualifier | Chad vs Mali (Wed 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174945.ts
-#EXTINF:-1 tvg-id="13footballnoevent" tvg-name="13. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. Football | No Event
+#EXTINF:-1 tvg-id="13fifaqualifiercomorosvsmadagascarwed2300vn" tvg-name="13. FIFA Qualifier | Comoros vs Madagascar (Wed 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events",13. FIFA Qualifier | Comoros vs Madagascar (Wed 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/174944.ts
-#EXTINF:-1 tvg-id="14footballnoevent" tvg-name="14. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. Football | No Event
+#EXTINF:-1 tvg-id="14fifaqualifierdjiboutivsegyptwed2300vn" tvg-name="14. FIFA Qualifier | Djibouti vs Egypt (Wed 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events",14. FIFA Qualifier | Djibouti vs Egypt (Wed 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233895.ts
-#EXTINF:-1 tvg-id="15footballnoevent" tvg-name="15. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. Football | No Event
+#EXTINF:-1 tvg-id="15fifaqualifiersierraleonevsburkinafasowed2300vn" tvg-name="15. FIFA Qualifier | Sierra Leone vs Burkina Faso (Wed 23:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events",15. FIFA Qualifier | Sierra Leone vs Burkina Faso (Wed 23:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233896.ts
-#EXTINF:-1 tvg-id="16footballnoevent" tvg-name="16. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events",16. Football | No Event
-http://tv.8dott.xyz:80/live/samuel/samuel123456/233897.ts
-#EXTINF:-1 tvg-id="17footballnoevent" tvg-name="17. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. Football | No Event
+#EXTINF:-1 tvg-id="17fifaqualifiernigervscongothu0200vn" tvg-name="17. FIFA Qualifier | Niger vs Congo (Thu 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events",17. FIFA Qualifier | Niger vs Congo (Thu 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233898.ts
-#EXTINF:-1 tvg-id="18footballnoevent" tvg-name="18. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. Football | No Event
+#EXTINF:-1 tvg-id="18fifaqualifiertanzaniavszambiathu0200vn" tvg-name="18. FIFA Qualifier | Tanzania vs Zambia (Thu 02:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events",18. FIFA Qualifier | Tanzania vs Zambia (Thu 02:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233899.ts
-#EXTINF:-1 tvg-id="19footballnoevent" tvg-name="19. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. Football | No Event
+#EXTINF:-1 tvg-id="19u20worldcupargentinavsnigeriathu0230vn" tvg-name="19. U20 World Cup | Argentina vs Nigeria (Thu 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events",19. U20 World Cup | Argentina vs Nigeria (Thu 02:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233900.ts
-#EXTINF:-1 tvg-id="20footballnoevent" tvg-name="20. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. Football | No Event
+#EXTINF:-1 tvg-id="20u20worldcupcolombiavssouthafricathu0230vn" tvg-name="20. U20 World Cup | Colombia vs South Africa (Thu 02:30 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events",20. U20 World Cup | Colombia vs South Africa (Thu 02:30 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233901.ts
-#EXTINF:-1 tvg-id="21footballnoevent" tvg-name="21. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. Football | No Event
+#EXTINF:-1 tvg-id="21u20worldcupjapanvsfrancethu0600vn" tvg-name="21. U20 World Cup | Japan vs France (Thu 06:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events",21. U20 World Cup | Japan vs France (Thu 06:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233902.ts
-#EXTINF:-1 tvg-id="22footballnoevent" tvg-name="22. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. Football | No Event
+#EXTINF:-1 tvg-id="22u20worldcupparaguayvsnorwaythu0600vn" tvg-name="22. U20 World Cup | Paraguay vs Norway (Thu 06:00 (VN))" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball22.png" group-title="LIVE | Football Events",22. U20 World Cup | Paraguay vs Norway (Thu 06:00 (VN))
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233903.ts
 #EXTINF:-1 tvg-id="23footballnoevent" tvg-name="23. Football | No Event" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball23.png" group-title="LIVE | Football Events",23. Football | No Event
 http://tv.8dott.xyz:80/live/samuel/samuel123456/233906.ts
